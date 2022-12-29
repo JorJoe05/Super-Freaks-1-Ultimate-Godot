@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_jump_water.ogg-4c9e8584ff35b0cce5903cbf8ba1b3c1.oggstr"
+
+[deps]
+
+source_file="res://Sounds/SFX/sfx_jump_water.ogg"
+dest_files=[ "res://.import/sfx_jump_water.ogg-4c9e8584ff35b0cce5903cbf8ba1b3c1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

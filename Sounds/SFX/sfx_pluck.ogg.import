@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_pluck.ogg-1605ca0c8e83b47a6ff461ac6c49acf5.oggstr"
+
+[deps]
+
+source_file="res://Sounds/SFX/sfx_pluck.ogg"
+dest_files=[ "res://.import/sfx_pluck.ogg-1605ca0c8e83b47a6ff461ac6c49acf5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

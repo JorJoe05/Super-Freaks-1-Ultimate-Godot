@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_bubble_air.ogg-d0e2ab188e9b326a1bf9120e994cfe10.oggstr"
+
+[deps]
+
+source_file="res://Sounds/SFX/sfx_bubble_air.ogg"
+dest_files=[ "res://.import/sfx_bubble_air.ogg-d0e2ab188e9b326a1bf9120e994cfe10.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
