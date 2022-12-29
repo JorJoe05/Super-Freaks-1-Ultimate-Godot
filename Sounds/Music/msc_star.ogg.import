@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/msc_star.ogg-234764f0b9c8507cad36f6a5a6ea2197.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Music/msc_star.ogg"
+dest_files=[ "res://.import/msc_star.ogg-234764f0b9c8507cad36f6a5a6ea2197.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

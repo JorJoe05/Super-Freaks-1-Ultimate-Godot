@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/msc_toy.ogg-f582b57dbd1049a2b0d3e2a5e5e67d65.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Music/msc_toy.ogg"
+dest_files=[ "res://.import/msc_toy.ogg-f582b57dbd1049a2b0d3e2a5e5e67d65.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

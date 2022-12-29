@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/msc_skyway.ogg-bb9b52f58bbe927b0c3ab267caa192c5.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Music/msc_skyway.ogg"
+dest_files=[ "res://.import/msc_skyway.ogg-bb9b52f58bbe927b0c3ab267caa192c5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
