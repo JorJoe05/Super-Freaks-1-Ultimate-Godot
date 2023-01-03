@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/msc_boss_kranion.ogg-ada2c8aff05216de928170af676afa67.oggstr"
+path="res://.import/msc_boss_kranion.ogg-2cc017f6f96681223dfa4afe70a30fbb.oggstr"
 
 [deps]
 
-source_file="res://Sounds/Music/New name 1/msc_boss_kranion.ogg"
-dest_files=[ "res://.import/msc_boss_kranion.ogg-ada2c8aff05216de928170af676afa67.oggstr" ]
+source_file="res://Sounds/Music/msc_boss_kranion.ogg"
+dest_files=[ "res://.import/msc_boss_kranion.ogg-2cc017f6f96681223dfa4afe70a30fbb.oggstr" ]
 
 [params]
 

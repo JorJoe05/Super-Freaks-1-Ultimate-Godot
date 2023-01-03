@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/msc_lightning.ogg-c915dae73d4c2e6103348efbd88b295d.oggstr"
+path="res://.import/msc_lightning.ogg-cc03b4c56e479cd016ef950266d88539.oggstr"
 
 [deps]
 
-source_file="res://Sounds/Music/New name 1/msc_lightning.ogg"
-dest_files=[ "res://.import/msc_lightning.ogg-c915dae73d4c2e6103348efbd88b295d.oggstr" ]
+source_file="res://Sounds/Music/msc_lightning.ogg"
+dest_files=[ "res://.import/msc_lightning.ogg-cc03b4c56e479cd016ef950266d88539.oggstr" ]
 
 [params]
 

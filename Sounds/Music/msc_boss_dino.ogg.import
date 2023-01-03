@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/msc_boss_dino.ogg-0e0ccf95a7c3a99c85046368af736db8.oggstr"
+path="res://.import/msc_boss_dino.ogg-227679b13ff79365a4187e122370bf1b.oggstr"
 
 [deps]
 
-source_file="res://Sounds/Music/New name 1/msc_boss_dino.ogg"
-dest_files=[ "res://.import/msc_boss_dino.ogg-0e0ccf95a7c3a99c85046368af736db8.oggstr" ]
+source_file="res://Sounds/Music/msc_boss_dino.ogg"
+dest_files=[ "res://.import/msc_boss_dino.ogg-227679b13ff79365a4187e122370bf1b.oggstr" ]
 
 [params]
 

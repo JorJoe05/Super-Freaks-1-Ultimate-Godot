@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/msc_fruit.ogg-96896778378c39fdc11b93914fefb47c.oggstr"
+path="res://.import/msc_fruit.ogg-3e48299481aebc35f8280cda41b21885.oggstr"
 
 [deps]
 
-source_file="res://Sounds/Music/New name 1/msc_fruit.ogg"
-dest_files=[ "res://.import/msc_fruit.ogg-96896778378c39fdc11b93914fefb47c.oggstr" ]
+source_file="res://Sounds/Music/msc_fruit.ogg"
+dest_files=[ "res://.import/msc_fruit.ogg-3e48299481aebc35f8280cda41b21885.oggstr" ]
 
 [params]
 
