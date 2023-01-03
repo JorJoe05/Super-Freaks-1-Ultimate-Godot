@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/msc_boss_cinge.ogg-8a23842eead94c8b00988e7283eee1c0.oggstr"
+path="res://.import/msc_boss_cinge.ogg-fcbf760ce5d9ba3185b9862f3f85f207.oggstr"
 
 [deps]
 
-source_file="res://Sounds/Music/msc_boss_cinge.ogg"
-dest_files=[ "res://.import/msc_boss_cinge.ogg-8a23842eead94c8b00988e7283eee1c0.oggstr" ]
+source_file="res://Sounds/Music/New name 1/msc_boss_cinge.ogg"
+dest_files=[ "res://.import/msc_boss_cinge.ogg-fcbf760ce5d9ba3185b9862f3f85f207.oggstr" ]
 
 [params]
 

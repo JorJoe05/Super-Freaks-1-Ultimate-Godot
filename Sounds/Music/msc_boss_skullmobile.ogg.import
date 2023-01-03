@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/msc_boss_skullmobile.ogg-00fd6e5a43bdb65e9eccd26c7f942d75.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Music/New name 1/msc_boss_skullmobile.ogg"
+dest_files=[ "res://.import/msc_boss_skullmobile.ogg-00fd6e5a43bdb65e9eccd26c7f942d75.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

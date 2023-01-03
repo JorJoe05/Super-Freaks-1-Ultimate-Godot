@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/msc_hippie.ogg-68e5fb6b5413f00e07b0aa8ba9449eb2.oggstr"
+path="res://.import/msc_hippie.ogg-42070d0ae0be3f74f08ee95250ee82a9.oggstr"
 
 [deps]
 
-source_file="res://Sounds/Music/msc_hippie.ogg"
-dest_files=[ "res://.import/msc_hippie.ogg-68e5fb6b5413f00e07b0aa8ba9449eb2.oggstr" ]
+source_file="res://Sounds/Music/New name 1/msc_hippie.ogg"
+dest_files=[ "res://.import/msc_hippie.ogg-42070d0ae0be3f74f08ee95250ee82a9.oggstr" ]
 
 [params]
 

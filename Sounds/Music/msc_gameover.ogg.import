@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/msc_gameover.ogg-3e357d735e070e3557fa1664d326003d.oggstr"
+path="res://.import/msc_gameover.ogg-f7f045a47b4720267e22e060e69094fd.oggstr"
 
 [deps]
 
-source_file="res://Sounds/Music/msc_gameover.ogg"
-dest_files=[ "res://.import/msc_gameover.ogg-3e357d735e070e3557fa1664d326003d.oggstr" ]
+source_file="res://Sounds/Music/New name 1/msc_gameover.ogg"
+dest_files=[ "res://.import/msc_gameover.ogg-f7f045a47b4720267e22e060e69094fd.oggstr" ]
 
 [params]
 

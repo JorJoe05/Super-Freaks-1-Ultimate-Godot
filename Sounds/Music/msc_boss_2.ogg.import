@@ -2,12 +2,12 @@
 
 importer="ogg_vorbis"
 type="AudioStreamOGGVorbis"
-path="res://.import/msc_boss_2.ogg-db3fcdf600f45a441e1e0bf34903d724.oggstr"
+path="res://.import/msc_boss_2.ogg-9c55a61f15eea084e6f98e55587daad0.oggstr"
 
 [deps]
 
-source_file="res://Sounds/Music/msc_boss_2.ogg"
-dest_files=[ "res://.import/msc_boss_2.ogg-db3fcdf600f45a441e1e0bf34903d724.oggstr" ]
+source_file="res://Sounds/Music/New name 1/msc_boss_2.ogg"
+dest_files=[ "res://.import/msc_boss_2.ogg-9c55a61f15eea084e6f98e55587daad0.oggstr" ]
 
 [params]
 

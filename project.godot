@@ -16,6 +16,11 @@ boot_splash/fullsize=false
 boot_splash/use_filter=false
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=640
+window/size/height=360
+
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true

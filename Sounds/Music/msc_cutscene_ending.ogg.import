@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/msc_cutscene_ending.ogg-8c0fffd6bede083a096c24d8d97887bf.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Music/New name 1/msc_cutscene_ending.ogg"
+dest_files=[ "res://.import/msc_cutscene_ending.ogg-8c0fffd6bede083a096c24d8d97887bf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

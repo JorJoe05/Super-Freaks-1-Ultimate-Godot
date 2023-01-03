@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/msc_boss_kranion.ogg-ada2c8aff05216de928170af676afa67.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Music/New name 1/msc_boss_kranion.ogg"
+dest_files=[ "res://.import/msc_boss_kranion.ogg-ada2c8aff05216de928170af676afa67.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

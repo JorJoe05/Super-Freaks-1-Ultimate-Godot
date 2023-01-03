@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/msc_bossrush.ogg-74e77672768ed65fee24031462183295.oggstr"
+
+[deps]
+
+source_file="res://Sounds/Music/New name 1/msc_bossrush.ogg"
+dest_files=[ "res://.import/msc_bossrush.ogg-74e77672768ed65fee24031462183295.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
