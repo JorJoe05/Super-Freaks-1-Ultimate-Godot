@@ -1,0 +1,16 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://cfg858pq2y67q"
+path="res://.godot/imported/spr_font_title_card_highcontrast.fnt-480cb561bf85de805d5ff1931592e1dd.fontdata"
+
+[deps]
+
+source_file="res://Fonts/High Contrast/spr_font_title_card_highcontrast.fnt"
+dest_files=["res://.godot/imported/spr_font_title_card_highcontrast.fnt-480cb561bf85de805d5ff1931592e1dd.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true

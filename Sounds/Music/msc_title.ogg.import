@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/msc_title.ogg-232e0683a13e7afedbff07cc7a3413de.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cpxj0w7b1beyo"
+path="res://.godot/imported/msc_title.ogg-232e0683a13e7afedbff07cc7a3413de.oggvorbisstr"
 
 [deps]
 
 source_file="res://Sounds/Music/msc_title.ogg"
-dest_files=[ "res://.import/msc_title.ogg-232e0683a13e7afedbff07cc7a3413de.oggstr" ]
+dest_files=["res://.godot/imported/msc_title.ogg-232e0683a13e7afedbff07cc7a3413de.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/sfx_collect.ogg-0ccd5e63d5fae61af601646dfe699df7.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://nlhr4qk2c7yh"
+path="res://.godot/imported/sfx_collect.ogg-0ccd5e63d5fae61af601646dfe699df7.oggvorbisstr"
 
 [deps]
 
 source_file="res://Sounds/SFX/sfx_collect.ogg"
-dest_files=[ "res://.import/sfx_collect.ogg-0ccd5e63d5fae61af601646dfe699df7.oggstr" ]
+dest_files=["res://.godot/imported/sfx_collect.ogg-0ccd5e63d5fae61af601646dfe699df7.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

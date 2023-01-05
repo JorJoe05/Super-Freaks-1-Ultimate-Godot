@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/msc_worldmap.ogg-0cb92ae73b66760057e19ca5896f0b1e.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://du3mf23y2eu8g"
+path="res://.godot/imported/msc_worldmap.ogg-0cb92ae73b66760057e19ca5896f0b1e.oggvorbisstr"
 
 [deps]
 
 source_file="res://Sounds/Music/msc_worldmap.ogg"
-dest_files=[ "res://.import/msc_worldmap.ogg-0cb92ae73b66760057e19ca5896f0b1e.oggstr" ]
+dest_files=["res://.godot/imported/msc_worldmap.ogg-0cb92ae73b66760057e19ca5896f0b1e.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

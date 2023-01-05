@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/msc_boss_skullmobile.ogg-62819e6d1c86015a7224411dfb60b7fe.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bpy35glj78hvj"
+path="res://.godot/imported/msc_boss_skullmobile.ogg-62819e6d1c86015a7224411dfb60b7fe.oggvorbisstr"
 
 [deps]
 
 source_file="res://Sounds/Music/msc_boss_skullmobile.ogg"
-dest_files=[ "res://.import/msc_boss_skullmobile.ogg-62819e6d1c86015a7224411dfb60b7fe.oggstr" ]
+dest_files=["res://.godot/imported/msc_boss_skullmobile.ogg-62819e6d1c86015a7224411dfb60b7fe.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

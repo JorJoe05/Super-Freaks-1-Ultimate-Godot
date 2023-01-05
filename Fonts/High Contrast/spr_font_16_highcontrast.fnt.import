@@ -1,0 +1,16 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://bey06qwk2dnox"
+path="res://.godot/imported/spr_font_16_highcontrast.fnt-d961dee1ad4dd821ad357432c3e0e9cc.fontdata"
+
+[deps]
+
+source_file="res://Fonts/High Contrast/spr_font_16_highcontrast.fnt"
+dest_files=["res://.godot/imported/spr_font_16_highcontrast.fnt-d961dee1ad4dd821ad357432c3e0e9cc.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true

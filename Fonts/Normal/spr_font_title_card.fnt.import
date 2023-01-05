@@ -1,0 +1,16 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://frpwl2kwj8u4"
+path="res://.godot/imported/spr_font_title_card.fnt-170b97409f2fadb3cec39aeed6d45bf0.fontdata"
+
+[deps]
+
+source_file="res://Fonts/Normal/spr_font_title_card.fnt"
+dest_files=["res://.godot/imported/spr_font_title_card.fnt-170b97409f2fadb3cec39aeed6d45bf0.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true

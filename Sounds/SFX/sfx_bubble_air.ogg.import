@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/sfx_bubble_air.ogg-d0e2ab188e9b326a1bf9120e994cfe10.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dx27jf2mwol6n"
+path="res://.godot/imported/sfx_bubble_air.ogg-d0e2ab188e9b326a1bf9120e994cfe10.oggvorbisstr"
 
 [deps]
 
 source_file="res://Sounds/SFX/sfx_bubble_air.ogg"
-dest_files=[ "res://.import/sfx_bubble_air.ogg-d0e2ab188e9b326a1bf9120e994cfe10.oggstr" ]
+dest_files=["res://.godot/imported/sfx_bubble_air.ogg-d0e2ab188e9b326a1bf9120e994cfe10.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

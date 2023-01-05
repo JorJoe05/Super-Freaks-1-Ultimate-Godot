@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/sfx_explode.ogg-278405eaa715cf4da35b31422031fcf6.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cfho3vatpuq2f"
+path="res://.godot/imported/sfx_explode.ogg-278405eaa715cf4da35b31422031fcf6.oggvorbisstr"
 
 [deps]
 
 source_file="res://Sounds/SFX/sfx_explode.ogg"
-dest_files=[ "res://.import/sfx_explode.ogg-278405eaa715cf4da35b31422031fcf6.oggstr" ]
+dest_files=["res://.godot/imported/sfx_explode.ogg-278405eaa715cf4da35b31422031fcf6.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

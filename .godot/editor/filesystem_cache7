@@ -1,0 +1,546 @@
+0b7126e0c6e86d3ec295a72f5aa6e0bd
+::res://::1672947616
+default_env.tres::Environment::-1::1672946282::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1672110842::0::1::::<><>::
+icon.png::CompressedTexture2D::5213963759845130577::1671933401::1672947271::1::::<><>::
+README.md::TextFile::-1::1672343080::0::1::::<><>::
+TitleCard.tscn::PackedScene::7030940896182608353::1672947603::0::1::::<><>::uid://frpwl2kwj8u4
+::res://Components/::1672360408
+::res://Docs/::1672284909
+Cutscenes.txt::TextFile::-1::1672246695::0::1::::<><>::
+Game Plan.txt::TextFile::-1::1672246695::0::1::::<><>::
+Menus.txt::TextFile::-1::1672246695::0::1::::<><>::
+Museum.txt::TextFile::-1::1672246695::0::1::::<><>::
+Tiles.txt::TextFile::-1::1672246695::0::1::::<><>::
+Unlimit Powers.txt::TextFile::-1::1672246695::0::1::::<><>::
+Unlockables.txt::TextFile::-1::1672246695::0::1::::<><>::
+Victory Messages.txt::TextFile::-1::1672246695::0::1::::<><>::
+::res://Fonts/::1672342793
+::res://Fonts/High Contrast/::1672947271
+spr_font_16_highcontrast.fnt::FontFile::2718295283622746799::1672340837::1672947061::1::::<><>::
+spr_font_16_highcontrast.png::CompressedTexture2D::254341451098966807::1672332144::1672947271::1::::<><>::
+spr_font_title_card_highcontrast.fnt::FontFile::5138230843885811964::1672342577::1672947061::1::::<><>::
+spr_font_title_card_highcontrast.png::CompressedTexture2D::2666222082817111179::1672342698::1672947271::1::::<><>::
+::res://Fonts/Normal/::1672947271
+spr_font_16.fnt::FontFile::6929613654252088400::1672341306::1672947061::1::::<><>::
+spr_font_16.png::CompressedTexture2D::5049880191404071796::1672331501::1672947271::1::::<><>::
+spr_font_title_card.fnt::FontFile::386989302317299825::1672342462::1672947061::1::::<><>::
+spr_font_title_card.png::CompressedTexture2D::8619865358701249812::1672331277::1672947271::1::::<><>::
+::res://Nodes/::1672350150
+::res://Nodes/Bosses/::1672349383
+::res://Nodes/Bosses/Cinge/::1672349366
+::res://Nodes/Bosses/Larry McPeel/::1672349373
+::res://Nodes/Bosses/Mega Klaw/::1672349378
+::res://Nodes/Bosses/Milk Man/::1672349383
+::res://Nodes/Enemies/::1672360378
+::res://Nodes/Enemies/Enemy Behaviours/::1672360380
+::res://Nodes/Level Design/::1672349247
+::res://Nodes/Levels/::1672350101
+::res://Nodes/Levels/Castle Kranion/::1672349835
+::res://Nodes/Levels/Castle Kranion/Conveyor Castle/::1672345619
+::res://Nodes/Levels/Castle Kranion/Mecha Moon/::1672345647
+::res://Nodes/Levels/Castle Kranion/Vs Kranion/::1672345688
+::res://Nodes/Levels/Crazy World/::1672349847
+::res://Nodes/Levels/Crazy World/Playful Park/::1672356171
+::res://Nodes/Levels/Crazy World/Toy Block Bridge/::1672356173
+::res://Nodes/Levels/Freaky World/::1672349908
+::res://Nodes/Levels/Freaky World/Cool n Chill Caverns/::1672356177
+::res://Nodes/Levels/Freaky World/Starscraper/::1672345852
+::res://Nodes/Levels/Insane World/::1672349967
+::res://Nodes/Levels/Insane World/Forever Flowery Fields/::1672356183
+::res://Nodes/Levels/Insane World/Lightning Rod Lake/::1672356185
+::res://Nodes/Levels/Ludicrous World/::1672350008
+::res://Nodes/Levels/Ludicrous World/Barrel Canyon Cliffs/::1672356215
+::res://Nodes/Levels/Ludicrous World/Shipwreck Poopdeck/::1672356217
+::res://Nodes/Levels/Mystic Island/::1672350062
+::res://Nodes/Levels/Mystic Island/Super Freaks Stadium/::1672346071
+::res://Nodes/Levels/Normal World/::1672350086
+::res://Nodes/Levels/Normal World/Fruit Juice Factory/::1672360367
+::res://Nodes/Levels/Normal World/Skyway Highway/::1672360369
+::res://Nodes/Levels/Test/::1672345559
+::res://Nodes/Levels/Test/Test Level/::1672345559
+::res://Nodes/Players/::1672356129
+::res://Nodes/Players/States/::1672350189
+::res://Nodes/System/::1672350945
+::res://Nodes/System/Cutscenes/::1672356138
+::res://Nodes/System/Menus/::1672356142
+::res://Nodes/System/Scene Transitions/::1672350916
+::res://Nodes/System/Title Screen/::1672350930
+::res://Nodes/System/World Map/::1672356147
+::res://Nodes/Things/::1672351065
+::res://Nodes/Things/Collectibles/::1672351061
+::res://Nodes/Things/Common/::1672356155
+::res://Scenes/::1672345373
+::res://Scenes/Cutscenes/::1672345366
+::res://Scenes/Levels/::1672345972
+::res://Scenes/Levels/Castle Kranion/::1672345688
+::res://Scenes/Levels/Castle Kranion/Conveyor Castle/::1672345619
+::res://Scenes/Levels/Castle Kranion/Conveyor Secret/::1672345628
+::res://Scenes/Levels/Castle Kranion/Kranion's Secret Weapon/::1672345638
+::res://Scenes/Levels/Castle Kranion/Mecha Moon/::1672345647
+::res://Scenes/Levels/Castle Kranion/Moon Secret/::1672345670
+::res://Scenes/Levels/Castle Kranion/Vs Dino/::1672345678
+::res://Scenes/Levels/Castle Kranion/Vs Kranion/::1672345688
+::res://Scenes/Levels/Crazy World/::1672345781
+::res://Scenes/Levels/Crazy World/Playful Park/::1672345735
+::res://Scenes/Levels/Crazy World/Toy Block Bridge/::1672345751
+::res://Scenes/Levels/Crazy World/Toy Block Secret/::1672345775
+::res://Scenes/Levels/Crazy World/Vs Milk Man/::1672345781
+::res://Scenes/Levels/Freaky World/::1672345862
+::res://Scenes/Levels/Freaky World/Cool n Chill Caverns/::1672345829
+::res://Scenes/Levels/Freaky World/Cool n Chill Secret/::1672345838
+::res://Scenes/Levels/Freaky World/Starscraper/::1672345852
+::res://Scenes/Levels/Freaky World/Vs Francis/::1672345862
+::res://Scenes/Levels/Insane World/::1672345948
+::res://Scenes/Levels/Insane World/Flowery Secret/::1672345897
+::res://Scenes/Levels/Insane World/Forever Flowery Fields/::1672345905
+::res://Scenes/Levels/Insane World/Lightning Rod Lake/::1672345938
+::res://Scenes/Levels/Insane World/Vs Larry McPeel/::1672345948
+::res://Scenes/Levels/Ludicrous World/::1672346016
+::res://Scenes/Levels/Ludicrous World/Barrel Canyon Cliffs/::1672345992
+::res://Scenes/Levels/Ludicrous World/Barrel Secret/::1672345999
+::res://Scenes/Levels/Ludicrous World/Shipwreck Poopdeck/::1672346009
+::res://Scenes/Levels/Ludicrous World/Vs Mega Klaw/::1672346016
+::res://Scenes/Levels/Mystic Island/::1672346079
+::res://Scenes/Levels/Mystic Island/Exciting Encore/::1672346057
+::res://Scenes/Levels/Mystic Island/Super Freaks Stadium/::1672346071
+::res://Scenes/Levels/Mystic Island/Vs Anti Freaks/::1672346079
+::res://Scenes/Levels/Normal World/::1672346181
+::res://Scenes/Levels/Normal World/Fruit Juice Factory/::1672346154
+::res://Scenes/Levels/Normal World/Fruit Juice Secret/::1672346164
+::res://Scenes/Levels/Normal World/Skyway Highway/::1672346172
+::res://Scenes/Levels/Normal World/Vs Cinge/::1672346181
+::res://Scenes/Levels/Test/::1672345559
+::res://Scenes/Levels/Test/Test Level/::1672345559
+::res://Scripts/::1672360449
+::res://Shaders/::1672345243
+::res://Shaders/GMS2/::1672345245
+::res://Shaders/GMS2/shader_blur/::1672345254
+::res://Shaders/GMS2/shader_grayscale/::1672345257
+::res://Shaders/GMS2/shader_outline/::1672345260
+::res://Shaders/GMS2/shader_wave/::1672345263
+::res://Sounds/::1672282093
+::res://Sounds/Music/::1672947262
+msc_bossrush.ogg::AudioStreamOggVorbis::2442460483152360899::1672616059::1672947261::1::::<><>::
+msc_boss_1.ogg::AudioStreamOggVorbis::8913133022194123595::1672246695::1672947261::1::::<><>::
+msc_boss_2.ogg::AudioStreamOggVorbis::7585844214073532266::1672246695::1672947261::1::::<><>::
+msc_boss_antifreaks.ogg::AudioStreamOggVorbis::3113539878451827632::1672246695::1672947261::1::::<><>::
+msc_boss_cinge.ogg::AudioStreamOggVorbis::2813098456550508424::1672246695::1672947261::1::::<><>::
+msc_boss_dino.ogg::AudioStreamOggVorbis::4691986972698888246::1672616059::1672947261::1::::<><>::
+msc_boss_kranion.ogg::AudioStreamOggVorbis::1380706533497326444::1672616059::1672947261::1::::<><>::
+msc_boss_skullmobile.ogg::AudioStreamOggVorbis::3490552386561566167::1672616059::1672947260::1::::<><>::
+msc_canyon.ogg::AudioStreamOggVorbis::4481714909234143659::1672246695::1672947260::1::::<><>::
+msc_castle.ogg::AudioStreamOggVorbis::1351369053003216134::1672616059::1672947260::1::::<><>::
+msc_cutscene_ending.ogg::AudioStreamOggVorbis::6913841264475815011::1672616060::1672947260::1::::<><>::
+msc_cutscene_intro.ogg::AudioStreamOggVorbis::7406036767989878329::1672246695::1672947260::1::::<><>::
+msc_cutscene_normal.ogg::AudioStreamOggVorbis::2074665331433179180::1672246695::1672947260::1::::<><>::
+msc_fruit.ogg::AudioStreamOggVorbis::7212481645301538014::1672246695::1672947260::1::::<><>::
+msc_gameover.ogg::AudioStreamOggVorbis::1048830788707892292::1672246695::1672947260::1::::<><>::
+msc_hippie.ogg::AudioStreamOggVorbis::7905877758945616084::1672246695::1672947262::1::::<><>::
+msc_ice.ogg::AudioStreamOggVorbis::2815123362811029934::1672246695::1672947262::1::::<><>::
+msc_lightning.ogg::AudioStreamOggVorbis::5955178063816379506::1672246695::1672947262::1::::<><>::
+msc_menu.ogg::AudioStreamOggVorbis::5872851855203838202::1672246695::1672947262::1::::<><>::
+msc_moon.ogg::AudioStreamOggVorbis::36396764714062841::1672616060::1672947262::1::::<><>::
+msc_park.ogg::AudioStreamOggVorbis::6083952414593475024::1672246696::1672947262::1::::<><>::
+msc_ship.ogg::AudioStreamOggVorbis::720092022753011729::1672246696::1672947262::1::::<><>::
+msc_skyway.ogg::AudioStreamOggVorbis::4899858327342088496::1672246696::1672947261::1::::<><>::
+msc_stadium.ogg::AudioStreamOggVorbis::7161568085838996143::1672246696::1672947261::1::::<><>::
+msc_star.ogg::AudioStreamOggVorbis::6623853924320794384::1672246696::1672947261::1::::<><>::
+msc_title.ogg::AudioStreamOggVorbis::5873747013110252694::1672246696::1672947261::1::::<><>::
+msc_toy.ogg::AudioStreamOggVorbis::6401470835675569827::1672246696::1672947261::1::::<><>::
+msc_victory.ogg::AudioStreamOggVorbis::8803660481832331536::1672246696::1672947261::1::::<><>::
+msc_worldmap.ogg::AudioStreamOggVorbis::8621580496348036872::1672246696::1672947261::1::::<><>::
+::res://Sounds/SFX/::1672947261
+sfx_bite.ogg::AudioStreamOggVorbis::8181186086536053951::1672281816::1672947261::1::::<><>::
+sfx_bounce_rubber.ogg::AudioStreamOggVorbis::8064304592403658760::1672281816::1672947261::1::::<><>::
+sfx_bubble.ogg::AudioStreamOggVorbis::5251375232380492025::1672281816::1672947261::1::::<><>::
+sfx_bubble_air.ogg::AudioStreamOggVorbis::8831302974928991335::1672281816::1672947260::1::::<><>::
+sfx_clock_ticking.ogg::AudioStreamOggVorbis::2295826151268743805::1672281816::1672947260::1::::<><>::
+sfx_collect.ogg::AudioStreamOggVorbis::935620048419403575::1672281816::1672947260::1::::<><>::
+sfx_crash_1.ogg::AudioStreamOggVorbis::3871732283425252303::1672281816::1672947260::1::::<><>::
+sfx_crash_2.ogg::AudioStreamOggVorbis::2546088963401586197::1672281816::1672947260::1::::<><>::
+sfx_cymbal_crash.ogg::AudioStreamOggVorbis::1581160631051892528::1672281816::1672947260::1::::<><>::
+sfx_ding.ogg::AudioStreamOggVorbis::836921939679562521::1672281816::1672947260::1::::<><>::
+sfx_elastiband.ogg::AudioStreamOggVorbis::827337680494587865::1672281816::1672947260::1::::<><>::
+sfx_explode.ogg::AudioStreamOggVorbis::5139137373857326667::1672281816::1672947260::1::::<><>::
+sfx_explode_short.ogg::AudioStreamOggVorbis::6030996290181616786::1672281816::1672947260::1::::<><>::
+sfx_fall.ogg::AudioStreamOggVorbis::816300626004317704::1672281816::1672947260::1::::<><>::
+sfx_fanfare.ogg::AudioStreamOggVorbis::5758671998109054374::1672281817::1672947260::1::::<><>::
+sfx_heart.ogg::AudioStreamOggVorbis::6637085291574682261::1672281817::1672947260::1::::<><>::
+sfx_hit.ogg::AudioStreamOggVorbis::1440619735612388737::1672281817::1672947260::1::::<><>::
+sfx_honk.ogg::AudioStreamOggVorbis::3512194771695352370::1672281817::1672947260::1::::<><>::
+sfx_hurt.ogg::AudioStreamOggVorbis::6961652731619112401::1672281817::1672947260::1::::<><>::
+sfx_jump.ogg::AudioStreamOggVorbis::8827568886629584113::1672281817::1672947260::1::::<><>::
+sfx_jump_water.ogg::AudioStreamOggVorbis::811350557987577417::1672281817::1672947260::1::::<><>::
+sfx_lightning.ogg::AudioStreamOggVorbis::8460823600823830542::1672281817::1672947260::1::::<><>::
+sfx_pluck.ogg::AudioStreamOggVorbis::1627849990425998500::1672281817::1672947260::1::::<><>::
+sfx_pop.ogg::AudioStreamOggVorbis::1261106965645135796::1672281817::1672947260::1::::<><>::
+sfx_record_scratch.ogg::AudioStreamOggVorbis::1140564989359461648::1672281817::1672947260::1::::<><>::
+sfx_run_1.ogg::AudioStreamOggVorbis::2919868797460912315::1672281817::1672947260::1::::<><>::
+sfx_slide_whistle_down.ogg::AudioStreamOggVorbis::2183015264900854068::1672281817::1672947260::1::::<><>::
+sfx_slide_whistle_up.ogg::AudioStreamOggVorbis::5792476047095213578::1672281817::1672947260::1::::<><>::
+sfx_splash.ogg::AudioStreamOggVorbis::2309816441055923277::1672281817::1672947260::1::::<><>::
+sfx_splat.ogg::AudioStreamOggVorbis::6039903857964815805::1672281817::1672947260::1::::<><>::
+sfx_spring.ogg::AudioStreamOggVorbis::4178330484740333549::1672281817::1672947260::1::::<><>::
+sfx_stararrow.ogg::AudioStreamOggVorbis::3259541720725148851::1672281817::1672947260::1::::<><>::
+sfx_teleport.ogg::AudioStreamOggVorbis::5447365150242756434::1672281817::1672947260::1::::<><>::
+sfx_time_slow.ogg::AudioStreamOggVorbis::2776136808312184828::1672281817::1672947260::1::::<><>::
+sfx_unlock_level.ogg::AudioStreamOggVorbis::4535313080517273889::1672281817::1672947260::1::::<><>::
+sfx_walk_rapid.ogg::AudioStreamOggVorbis::2512514714726074741::1672281817::1672947260::1::::<><>::
+sfx_wind.ogg::AudioStreamOggVorbis::527974642841863638::1672281818::1672947260::1::::<><>::
+sfx_yell_goofy.ogg::AudioStreamOggVorbis::1529721059801064077::1672281818::1672947260::1::::<><>::
+sfx_yell_wilhelm.ogg::AudioStreamOggVorbis::7429163052560780234::1672281818::1672947260::1::::<><>::
+sfx_yorb.ogg::AudioStreamOggVorbis::6416010631868643586::1672281818::1672947261::1::::<><>::
+sfx_zip.ogg::AudioStreamOggVorbis::3013595215748719041::1672281818::1672947261::1::::<><>::
+::res://Sprites/::1672719182
+::res://Sprites/Bosses/::1672717648
+::res://Sprites/Bosses/Cinge/::1672947271
+spr_boss_cinge_death.png::CompressedTexture2D::7713606563554588546::1672257630::1672947271::1::::<><>::
+spr_boss_cinge_fireball.png::CompressedTexture2D::7378484488486969312::1672257652::1672947271::1::::<><>::
+spr_boss_cinge_getup.png::CompressedTexture2D::3970410270791874588::1672257672::1672947271::1::::<><>::
+spr_boss_cinge_shoot.png::CompressedTexture2D::3563321022912876795::1672257700::1672947271::1::::<><>::
+spr_boss_cinge_shoot_prepare.png::CompressedTexture2D::3668737671524424256::1672257730::1672947271::1::::<><>::
+spr_boss_cinge_stand.png::CompressedTexture2D::872620639611917593::1672257868::1672947271::1::::<><>::
+spr_boss_cinge_stun.png::CompressedTexture2D::1317423663015338477::1672257886::1672947271::1::::<><>::
+spr_boss_cinge_stun_ground.png::CompressedTexture2D::5945336879313728779::1672257906::1672947271::1::::<><>::
+::res://Sprites/Bosses/Francis/::1672947271
+spr_boss_francis_body.png::CompressedTexture2D::6895142685159304554::1672717856::1672947271::1::::<><>::
+spr_boss_francis_claw.png::CompressedTexture2D::1671553418894144139::1672717866::1672947271::1::::<><>::
+spr_boss_francis_cockpit_hurt.png::CompressedTexture2D::5971289069009225886::1672717876::1672947271::1::::<><>::
+spr_boss_francis_cockpit_normal.png::CompressedTexture2D::4075446558167572413::1672717884::1672947271::1::::<><>::
+spr_boss_francis_head.png::CompressedTexture2D::1356802102972708944::1672717894::1672947271::1::::<><>::
+spr_boss_francis_wing.png::CompressedTexture2D::4158853252533445025::1672717902::1672947271::1::::<><>::
+::res://Sprites/Bosses/Larry McPeel/::1672947271
+spr_boss_larry_body.png::CompressedTexture2D::8337564083544265904::1672257964::1672947271::1::::<><>::
+spr_boss_larry_intro.png::CompressedTexture2D::8191474607196539240::1672257992::1672947271::1::::<><>::
+spr_boss_larry_spikes.png::CompressedTexture2D::2194525730432639982::1672258010::1672947271::1::::<><>::
+::res://Sprites/Bosses/Mega Klaw/::1672947271
+spr_megaklaw_arm.png::CompressedTexture2D::7524643625037297184::1672258070::1672947271::1::::<><>::
+spr_megaklaw_claw.png::CompressedTexture2D::1973550448400549748::1672258080::1672947271::1::::<><>::
+spr_megaklaw_fly.png::CompressedTexture2D::7581940302298300625::1672258102::1672947271::1::::<><>::
+spr_megaklaw_punch.png::CompressedTexture2D::1145677773313327013::1672258150::1672947271::1::::<><>::
+spr_megaklaw_spit.png::CompressedTexture2D::970432546460260457::1672258174::1672947271::1::::<><>::
+spr_megaklaw_stand.png::CompressedTexture2D::6333334985017590071::1672258186::1672947271::1::::<><>::
+spr_megaklaw_stuck.png::CompressedTexture2D::3566560245892856580::1672258198::1672947271::1::::<><>::
+::res://Sprites/Bosses/Milk Man/::1672947271
+spr_milkman_arms.png::CompressedTexture2D::444805485151276211::1672258250::1672947271::1::::<><>::
+spr_milkman_body.png::CompressedTexture2D::1948101045572726553::1672258262::1672947271::1::::<><>::
+spr_milkman_intro.png::CompressedTexture2D::3743392834488567337::1672258274::1672947271::1::::<><>::
+::res://Sprites/Cutscenes/::1672719118
+::res://Sprites/Cutscenes/Intro/::1672947271
+spr_cutscene_intro_1.png::CompressedTexture2D::8891849262319646787::1672258452::1672947271::1::::<><>::
+spr_cutscene_intro_2.png::CompressedTexture2D::2264380270919271121::1672258464::1672947271::1::::<><>::
+spr_cutscene_intro_3.png::CompressedTexture2D::6487015461191861319::1672258478::1672947271::1::::<><>::
+spr_cutscene_intro_4.png::CompressedTexture2D::2065170365433298027::1672258490::1672947271::1::::<><>::
+spr_cutscene_intro_5.png::CompressedTexture2D::8211306147492696456::1672258500::1672947271::1::::<><>::
+spr_cutscene_intro_6.png::CompressedTexture2D::4754402058879168455::1672258506::1672947271::1::::<><>::
+spr_cutscene_intro_7.png::CompressedTexture2D::5897793162746532917::1672258516::1672947271::1::::<><>::
+spr_cutscene_intro_8.png::CompressedTexture2D::4892698621156875756::1672258534::1672947271::1::::<><>::
+spr_cutscene_intro_9.png::CompressedTexture2D::8677004378382658332::1672258548::1672947271::1::::<><>::
+spr_cutscene_intro_10.png::CompressedTexture2D::6081705505008415480::1672258560::1672947271::1::::<><>::
+spr_cutscene_intro_11.png::CompressedTexture2D::246252280113876759::1672258566::1672947271::1::::<><>::
+::res://Sprites/Cutscenes/Meet the Anti Freaks/::1672947271
+spr_cutscene_antifreaks_intro_1.png::CompressedTexture2D::1764815633478763818::1672258620::1672947271::1::::<><>::
+spr_cutscene_antifreaks_intro_2.png::CompressedTexture2D::347956426899904607::1672258628::1672947271::1::::<><>::
+::res://Sprites/Cutscenes/Shared/::1672947271
+spr_cutscene_placeholder.png::CompressedTexture2D::874350456931825820::1672258696::1672947271::1::::<><>::
+::res://Sprites/Cutscenes/The Freak Fathers/::1672947271
+spr_cutscene_freakfathers_1.png::CompressedTexture2D::2753306005620448451::1672718404::1672947271::1::::<><>::
+spr_cutscene_freakfathers_2.png::CompressedTexture2D::8491471697900479005::1672718414::1672947271::1::::<><>::
+::res://Sprites/Cutscenes/The X-Freaks/::1672947271
+spr_cutscene_xfreaks_1.png::CompressedTexture2D::7706489836318014610::1672258760::1672947271::1::::<><>::
+spr_cutscene_xfreaks_2.png::CompressedTexture2D::4103859715331600609::1672258770::1672947271::1::::<><>::
+spr_cutscene_xfreaks_3.png::CompressedTexture2D::3807515237513643262::1672258776::1672947271::1::::<><>::
+spr_cutscene_xfreaks_4.png::CompressedTexture2D::209705826188345731::1672258782::1672947271::1::::<><>::
+spr_cutscene_xfreaks_5.png::CompressedTexture2D::4462403098286529883::1672258788::1672947271::1::::<><>::
+spr_cutscene_xfreaks_6.png::CompressedTexture2D::6008178733729244947::1672258796::1672947271::1::::<><>::
+::res://Sprites/Enemies/::1672257580
+::res://Sprites/Enemies/Airhead/::1672947271
+spr_propello.png::CompressedTexture2D::6518904852933142519::1672260304::1672947271::1::::<><>::
+spr_propello_prepare.png::CompressedTexture2D::5640878647590852087::1672260328::1672947271::1::::<><>::
+::res://Sprites/Enemies/Boney M/::1672947271
+spr_boneym_walk.png::CompressedTexture2D::4688298579331860299::1672260350::1672947271::1::::<><>::
+::res://Sprites/Enemies/Buckler/::1672947271
+spr_buckler_guard.png::CompressedTexture2D::61736031361002797::1672260398::1672947271::1::::<><>::
+spr_buckler_shoot.png::CompressedTexture2D::5157058292699240456::1672260410::1672947271::1::::<><>::
+spr_buckler_stand.png::CompressedTexture2D::7242775032977013541::1672260424::1672947271::1::::<><>::
+::res://Sprites/Enemies/Cracker Barrel/::1672947271
+spr_crackerball.png::CompressedTexture2D::8083610867568883837::1672260552::1672947271::1::::<><>::
+spr_crackerbarrel.png::CompressedTexture2D::2703008806922435760::1672260564::1672947271::1::::<><>::
+spr_crackerbarrel_bouncy.png::CompressedTexture2D::2543250582945296897::1672260574::1672947271::1::::<><>::
+spr_crackerbarrel_giant.png::CompressedTexture2D::2766721698110798699::1672260586::1672947271::1::::<><>::
+::res://Sprites/Enemies/Drillobee/::1672947271
+spr_enemy_drillobee_drill.png::CompressedTexture2D::7104719194730277628::1672260618::1672947271::1::::<><>::
+spr_enemy_drillobee_stuck.png::CompressedTexture2D::6717354702519182710::1672260626::1672947271::1::::<><>::
+::res://Sprites/Enemies/Fusedropper/::1672947271
+spr_fusedropper_orange.png::CompressedTexture2D::3580068536952718499::1672260674::1672947271::1::::<><>::
+::res://Sprites/Enemies/Gary Fusey/::1672947271
+spr_garyfusey_danger.png::CompressedTexture2D::1602550026292916348::1672260722::1672947271::1::::<><>::
+spr_garyfusey_normal.png::CompressedTexture2D::1555146692617542450::1672260734::1672947271::1::::<><>::
+::res://Sprites/Enemies/Headshot/::1672947271
+spr_headshot.png::CompressedTexture2D::3640609283868929836::1672260776::1672947271::1::::<><>::
+spr_headshot_prepare.png::CompressedTexture2D::7814161051570323045::1672260784::1672947271::1::::<><>::
+::res://Sprites/Enemies/Hivemind/::1672947271
+spr_enemy_hivemind.png::CompressedTexture2D::3351385862479439933::1672260816::1672947271::1::::<><>::
+::res://Sprites/Enemies/Iron Ball McGinty/::1672947271
+spr_mcginty_body.png::CompressedTexture2D::8166043008619072885::1672260888::1672947271::1::::<><>::
+spr_mcginty_face.png::CompressedTexture2D::4142027751369794700::1672260902::1672947271::1::::<><>::
+::res://Sprites/Enemies/Jawnsy/::1672947271
+spr_jawnsy.png::CompressedTexture2D::5832183123872105411::1672260970::1672947271::1::::<><>::
+spr_jawnsy_bite.png::CompressedTexture2D::2136033655427033454::1672260990::1672947271::1::::<><>::
+::res://Sprites/Enemies/Mitosis/::1672947271
+spr_enemy_mitosis.png::CompressedTexture2D::688066942260592567::1672261032::1672947271::1::::<><>::
+::res://Sprites/Enemies/Pinhead/::1672947271
+spr_pinhead_walk.png::CompressedTexture2D::4451704098510414918::1672261102::1672947271::1::::<><>::
+::res://Sprites/Enemies/Plughead/::1672947271
+spr_plughead_attack.png::CompressedTexture2D::2544982727072537958::1672261164::1672947271::1::::<><>::
+spr_plughead_stand.png::CompressedTexture2D::6212922744254333156::1672261178::1672947271::1::::<><>::
+::res://Sprites/Enemies/Point-y/::1672947271
+spr_pointy.png::CompressedTexture2D::8229465277599851594::1672261206::1672947271::1::::<><>::
+::res://Sprites/Enemies/Rotato/::1672947271
+spr_rotato.png::CompressedTexture2D::7516921937864823110::1672261246::1672947271::1::::<><>::
+spr_rotato_spikeball.png::CompressedTexture2D::821697736070772486::1672261260::1672947271::1::::<><>::
+::res://Sprites/Enemies/Sawful/::1672947271
+spr_sawful_blade.png::CompressedTexture2D::2396554849909987160::1672261302::1672947271::1::::<><>::
+spr_sawful_face.png::CompressedTexture2D::7773830584033613085::1672261292::1672947271::1::::<><>::
+::res://Sprites/Enemies/Shared/::1672947271
+spr_enemy_electric_ball.png::CompressedTexture2D::5826520983030176964::1672261338::1672947271::1::::<><>::
+spr_enemy_fireball.png::CompressedTexture2D::7439126477860759494::1672261348::1672947271::1::::<><>::
+spr_enemy_shockwave.png::CompressedTexture2D::4311792320903603039::1672261374::1672947271::1::::<><>::
+spr_kranibomb.png::CompressedTexture2D::8949090676853885117::1672261384::1672947271::1::::<><>::
+::res://Sprites/Enemies/Skizzor/::1672947271
+spr_skizzor_bite.png::CompressedTexture2D::1132588691126689124::1672261480::1672947271::1::::<><>::
+spr_skizzor_walk.png::CompressedTexture2D::8171420060698984771::1672261490::1672947271::1::::<><>::
+::res://Sprites/Enemies/Skizzorpede/::1672947271
+spr_skizzorpede_body.png::CompressedTexture2D::8336018063894102657::1672261536::1672947271::1::::<><>::
+spr_skizzorpede_head.png::CompressedTexture2D::2884656559289294539::1672261546::1672947271::1::::<><>::
+::res://Sprites/Enemies/Skull Spinner/::1672947271
+spr_skull_spinner.png::CompressedTexture2D::4208848543635893688::1672261930::1672947271::1::::<><>::
+::res://Sprites/Enemies/Spinesweeper/::1672947271
+spr_spinesweeper_danger.png::CompressedTexture2D::3322415478957739468::1672261962::1672947271::1::::<><>::
+spr_spinesweeper_normal.png::CompressedTexture2D::3447313179999340688::1672261970::1672947271::1::::<><>::
+spr_spinesweeper_recover.png::CompressedTexture2D::8057460147997658743::1672261978::1672947271::1::::<><>::
+::res://Sprites/Level Design/::1672947271
+spr_spawn_pos.png::CompressedTexture2D::6063774072779783867::1672262056::1672947271::1::::<><>::
+spr_view_blocker.png::CompressedTexture2D::8005529031506816475::1672262068::1672947271::1::::<><>::
+spr_view_trapper.png::CompressedTexture2D::2870268613519204577::1672262074::1672947271::1::::<><>::
+spr_zone.png::CompressedTexture2D::3433134790374310004::1672262080::1672947271::1::::<><>::
+::res://Sprites/Levels/::1672719086
+::res://Sprites/Levels/Barrel Canyon Cliffs/::1672947271
+spr_background_canyon_mountains_back.png::CompressedTexture2D::1870969392722655812::1672262428::1672947271::1::::<><>::
+spr_background_canyon_mountains_front.png::CompressedTexture2D::2856562487916876246::1672262434::1672947271::1::::<><>::
+spr_canyon_tileset.png::CompressedTexture2D::2676841831676800892::1672262444::1672947271::1::::<><>::
+::res://Sprites/Levels/Conveyor Castle/::1672947271
+spr_castle_tileset.png::CompressedTexture2D::6406034418163845063::1672262522::1672947271::1::::<><>::
+spr_conveyor_belt.png::CompressedTexture2D::8323718941759153712::1672262538::1672947271::1::::<><>::
+::res://Sprites/Levels/Cool n Chill Caverns/::1672947271
+spr_background_ice.png::CompressedTexture2D::4493775412898409818::1672262650::1672947271::1::::<><>::
+spr_candle.png::CompressedTexture2D::7884685506340642006::1672262656::1672947271::1::::<><>::
+spr_ice_tileset.png::CompressedTexture2D::2755949851050104148::1672718626::1672947271::1::::<><>::
+spr_icicle.png::CompressedTexture2D::773250896674568972::1672262706::1672947271::1::::<><>::
+spr_lightbulb.png::CompressedTexture2D::3334909908708531067::1672262714::1672947271::1::::<><>::
+spr_platform_tilting.png::CompressedTexture2D::4103243136959175069::1672262724::1672947271::1::::<><>::
+::res://Sprites/Levels/Forever Flowery Fields/::1672947271
+spr_background_hippie_clouds.png::CompressedTexture2D::6497112413326906990::1672262790::1672947271::1::::<><>::
+spr_background_hippie_flowers.png::CompressedTexture2D::2863843372156958835::1672262804::1672947271::1::::<><>::
+spr_cannon_flower.png::CompressedTexture2D::403277167193715118::1672262810::1672947271::1::::<><>::
+spr_cannon_flower_ready.png::CompressedTexture2D::7795819355121823968::1672262822::1672947271::1::::<><>::
+spr_hippie_flower_propeller.png::CompressedTexture2D::2467591079262608669::1672262832::1672947271::1::::<><>::
+spr_hippie_tileset.png::CompressedTexture2D::1307496005717371398::1672262846::1672947271::1::::<><>::
+spr_hippie_wind.png::CompressedTexture2D::3604165045942543597::1672262868::1672947271::1::::<><>::
+spr_platform_fan_off.png::CompressedTexture2D::7686960631191296445::1672262878::1672947271::1::::<><>::
+spr_platform_fan_on.png::CompressedTexture2D::5956709653392557726::1672262888::1672947271::1::::<><>::
+spr_platform_fan_wind.png::CompressedTexture2D::1593297656604918911::1672262898::1672947271::1::::<><>::
+::res://Sprites/Levels/Fruit Juice Factory/::1672947271
+spr_background_fruit_juiceboxes.png::CompressedTexture2D::2705548158259141717::1672262982::1672947271::1::::<><>::
+spr_background_fruit_sky.png::CompressedTexture2D::6143819817444671990::1672262990::1672947271::1::::<><>::
+spr_fruit_tileset.png::CompressedTexture2D::865129470827238547::1672946900::1672947271::1::::<><>::
+spr_platform_orange.png::CompressedTexture2D::5999088223522779595::1672263006::1672947271::1::::<><>::
+spr_platform_rocket_apple.png::CompressedTexture2D::6092585178839228183::1672263024::1672947271::1::::<><>::
+spr_rolling_apple.png::CompressedTexture2D::4441891230460531287::1672263036::1672947271::1::::<><>::
+spr_spikeball_pineapple.png::CompressedTexture2D::3175543969046701975::1672263046::1672947271::1::::<><>::
+::res://Sprites/Levels/Lightning Rod Lake/::1672947271
+spr_background_lightning_clouds.png::CompressedTexture2D::2805589981013378775::1672263088::1672947271::1::::<><>::
+spr_background_lightning_mountains_back.png::CompressedTexture2D::7451734726716633982::1672263094::1672947271::1::::<><>::
+spr_background_lightning_mountains_front.png::CompressedTexture2D::5138150584103442117::1672263100::1672947271::1::::<><>::
+spr_lightning.png::CompressedTexture2D::2386462013027739170::1672263110::1672947271::1::::<><>::
+spr_lightning_appear.png::CompressedTexture2D::389465415339942832::1672263122::1672947271::1::::<><>::
+spr_lightning_tileset.png::CompressedTexture2D::705827868030188071::1672263132::1672947271::1::::<><>::
+::res://Sprites/Levels/Mecha Moon/::1672346276
+::res://Sprites/Levels/Playful Park/::1672947271
+spr_background_park.png::CompressedTexture2D::1106636377714547837::1672263250::1672947271::1::::<><>::
+spr_park_tileset.png::CompressedTexture2D::6622801484489816528::1672263258::1672947271::1::::<><>::
+spr_platform_balloon.png::CompressedTexture2D::2290142984617136592::1672263268::1672947271::1::::<><>::
+spr_platform_balloon_string.png::CompressedTexture2D::2140096195784967745::1672263278::1672947271::1::::<><>::
+::res://Sprites/Levels/Shared/::1672947271
+spr_special_tileset.png::CompressedTexture2D::8051921084372833077::1672263332::1672947271::1::::<><>::
+spr_template_tileset.png::CompressedTexture2D::3537741712812544363::1672263342::1672947271::1::::<><>::
+::res://Sprites/Levels/Shipwreck Poopdeck/::1672947271
+spr_background_ship.png::CompressedTexture2D::3548043660495156567::1672263366::1672947271::1::::<><>::
+spr_ship_tileset.png::CompressedTexture2D::4823763820188570370::1672263390::1672947271::1::::<><>::
+::res://Sprites/Levels/Skyway Highway/::1672947271
+spr_background_sky_clouds.png::CompressedTexture2D::7785366922262262045::1672263446::1672947271::1::::<><>::
+spr_sky_tileset.png::CompressedTexture2D::8043395324472683218::1672263450::1672947271::1::::<><>::
+::res://Sprites/Levels/Starscraper/::1672947271
+spr_platform_redblue_solid.png::CompressedTexture2D::571956993748427996::1672263504::1672947271::1::::<><>::
+spr_platform_rotate.png::CompressedTexture2D::2541973891850941180::1672263522::1672947271::1::::<><>::
+spr_star_background_bricks.png::CompressedTexture2D::4922157257732473484::1672263532::1672947271::1::::<><>::
+spr_star_background_stars.png::CompressedTexture2D::2689797583526969834::1672263540::1672947271::1::::<><>::
+spr_star_floor_rising.png::CompressedTexture2D::4587922634833396377::1672263548::1672947271::1::::<><>::
+spr_star_tileset.png::CompressedTexture2D::1137571811181043655::1672263556::1672947271::1::::<><>::
+::res://Sprites/Levels/Super Freaks Stadium/::1672947271
+spr_background_stadium.png::CompressedTexture2D::1937778769140452501::1672263650::1672947271::1::::<><>::
+spr_stadium_tileset.png::CompressedTexture2D::559965441088587819::1672263656::1672947271::1::::<><>::
+::res://Sprites/Levels/Test/::1672947271
+spr_level_test_back.png::CompressedTexture2D::8444511652629405341::1672263686::1672947271::1::::<><>::
+spr_level_test_tileset.png::CompressedTexture2D::2205257029704564241::1672946900::1672947271::1::::<><>::
+::res://Sprites/Levels/Toy Block Bridge/::1672947271
+spr_background_toy_bridge.png::CompressedTexture2D::5660211725707706737::1672263750::1672947271::1::::<><>::
+spr_background_toy_clouds.png::CompressedTexture2D::4655758147893478518::1672263760::1672947271::1::::<><>::
+spr_platform_card.png::CompressedTexture2D::3946611199355604331::1672263772::1672947271::1::::<><>::
+spr_toy_tileset.png::CompressedTexture2D::971258344070046840::1672263794::1672947271::1::::<><>::
+spr_yoyo.png::CompressedTexture2D::2594226776575750689::1672263806::1672947271::1::::<><>::
+::res://Sprites/Museum/::1672947271
+spr_museum_characters.png::CompressedTexture2D::2880054497634105332::1672718856::1672947271::1::::<><>::
+spr_museum_cutscenes.png::CompressedTexture2D::5730142742205653752::1672718872::1672947271::1::::<><>::
+::res://Sprites/Player Characters/::1672264040
+::res://Sprites/Player Characters/Gambi/::1672947271
+spr_player_air_gambi.png::CompressedTexture2D::4432859601030229275::1672264192::1672947271::1::::<><>::
+spr_player_climb_gambi.png::CompressedTexture2D::3101539801996226866::1672264214::1672947271::1::::<><>::
+spr_player_death_gambi.png::CompressedTexture2D::5536403889417064909::1672264220::1672947271::1::::<><>::
+spr_player_hang_gambi.png::CompressedTexture2D::5825571793626013136::1672264224::1672947271::1::::<><>::
+spr_player_HUD_gambi.png::CompressedTexture2D::8911173057535797523::1672264232::1672947271::1::::<><>::
+spr_player_hurt_gambi.png::CompressedTexture2D::2934609877965201726::1672264238::1672947271::1::::<><>::
+spr_player_jump_gambi.png::CompressedTexture2D::4151337162518008247::1672264248::1672947271::1::::<><>::
+spr_player_pole_gambi.png::CompressedTexture2D::6110352488289401338::1672264260::1672947271::1::::<><>::
+spr_player_pole_turn_gambi.png::CompressedTexture2D::1093601064044444030::1672264272::1672947271::1::::<><>::
+spr_player_rail_gambi.png::CompressedTexture2D::4961948225763227099::1672264278::1672947271::1::::<><>::
+spr_player_skid_gambi.png::CompressedTexture2D::6775860818263029331::1672264288::1672947271::1::::<><>::
+spr_player_stand_gambi.png::CompressedTexture2D::478084052825156222::1672264298::1672947271::1::::<><>::
+spr_player_walk_gambi.png::CompressedTexture2D::5233683656907809438::1672264318::1672947271::1::::<><>::
+spr_player_wall_slide_gambi.png::CompressedTexture2D::3214111117457735647::1672264324::1672947271::1::::<><>::
+::res://Sprites/Player Characters/King Quincy/::1672947271
+spr_player_air_quincy.png::CompressedTexture2D::2129257992455587790::1672264476::1672947271::1::::<><>::
+spr_player_climb_quincy.png::CompressedTexture2D::3096576023273175783::1672264504::1672947271::1::::<><>::
+spr_player_death_quincy.png::CompressedTexture2D::4444225748325072278::1672264514::1672947271::1::::<><>::
+spr_player_hang_quincy.png::CompressedTexture2D::627078971229134166::1672264522::1672947271::1::::<><>::
+spr_player_HUD_quincy.png::CompressedTexture2D::7631912207642596265::1672264530::1672947271::1::::<><>::
+spr_player_hurt_quincy.png::CompressedTexture2D::1814361199550475705::1672264536::1672947271::1::::<><>::
+spr_player_jump_quincy.png::CompressedTexture2D::1326458090929065255::1672264546::1672947271::1::::<><>::
+spr_player_pole_quincy.png::CompressedTexture2D::5671964733693985200::1672264554::1672947271::1::::<><>::
+spr_player_pole_turn_quincy.png::CompressedTexture2D::1214013671777634163::1672264564::1672947271::1::::<><>::
+spr_player_rail_quincy.png::CompressedTexture2D::4469574754200886548::1672264574::1672947271::1::::<><>::
+spr_player_skid_quincy.png::CompressedTexture2D::4914963472630504059::1672264598::1672947271::1::::<><>::
+spr_player_stand_quincy.png::CompressedTexture2D::2678848452933259968::1672264606::1672947271::1::::<><>::
+spr_player_walk_quincy.png::CompressedTexture2D::3768293303924569443::1672264616::1672947271::1::::<><>::
+spr_player_wall_slide_quincy.png::CompressedTexture2D::491429543871354052::1672264632::1672947271::1::::<><>::
+::res://Sprites/Player Characters/Scruffy/::1672947271
+spr_player_air_scruffy.png::CompressedTexture2D::3164210498636359208::1672264740::1672947271::1::::<><>::
+spr_player_climb_scruffy.png::CompressedTexture2D::8361181368411625806::1672264750::1672947271::1::::<><>::
+spr_player_death_scruffy.png::CompressedTexture2D::6177374588460080594::1672264760::1672947271::1::::<><>::
+spr_player_hang_scruffy.png::CompressedTexture2D::5430775592232834475::1672264764::1672947271::1::::<><>::
+spr_player_HUD_scruffy.png::CompressedTexture2D::2307256144121960818::1672264774::1672947271::1::::<><>::
+spr_player_hurt_scruffy.png::CompressedTexture2D::148143138475912480::1672264782::1672947271::1::::<><>::
+spr_player_jump_scruffy.png::CompressedTexture2D::1001428021835702209::1672264794::1672947271::1::::<><>::
+spr_player_pole_scruffy.png::CompressedTexture2D::232540420786895108::1672264804::1672947271::1::::<><>::
+spr_player_pole_turn_scruffy.png::CompressedTexture2D::5717713271532705671::1672264814::1672947271::1::::<><>::
+spr_player_rail_scruffy.png::CompressedTexture2D::8327553371758092800::1672264822::1672947271::1::::<><>::
+spr_player_skid_scruffy.png::CompressedTexture2D::5289302392542024674::1672264832::1672947271::1::::<><>::
+spr_player_stand_scruffy.png::CompressedTexture2D::2314665656965025903::1672264840::1672947271::1::::<><>::
+spr_player_walk_scruffy.png::CompressedTexture2D::3287677638032368900::1672264848::1672947271::1::::<><>::
+spr_player_wall_slide_scruffy.png::CompressedTexture2D::6166175977831205560::1672264858::1672947271::1::::<><>::
+::res://Sprites/Player Characters/Shared/::1672947271
+spr_elastiband.png::CompressedTexture2D::2130326996889261762::1672265878::1672947271::1::::<><>::
+spr_HUD_elastiband.png::CompressedTexture2D::7335105683163763622::1672265886::1672947271::1::::<><>::
+spr_HUD_heart.png::CompressedTexture2D::1997141861400060030::1672265900::1672947271::1::::<><>::
+spr_HUD_trophy.png::CompressedTexture2D::3879042270821494527::1672265914::1672947271::1::::<><>::
+spr_HUD_water_meter.png::CompressedTexture2D::6270710776340274250::1672265924::1672947271::1::::<><>::
+spr_invincibility_stars.png::CompressedTexture2D::6123800722166046829::1672265944::1672947271::1::::<><>::
+spr_player_bubble.png::CompressedTexture2D::776420035185523750::1672265956::1672947271::1::::<><>::
+spr_player_numbers.png::CompressedTexture2D::4747081274362075948::1672265966::1672947271::1::::<><>::
+spr_player_numbers_arrows.png::CompressedTexture2D::6648789662563501957::1672265978::1672947271::1::::<><>::
+::res://Sprites/Player Characters/Tikiman/::1672947271
+spr_player_air_tikiman.png::CompressedTexture2D::5400588285302105262::1672265176::1672947271::1::::<><>::
+spr_player_climb_tikiman.png::CompressedTexture2D::6585383252703189309::1672265186::1672947271::1::::<><>::
+spr_player_death_tikiman.png::CompressedTexture2D::5859038919612600747::1672265194::1672947271::1::::<><>::
+spr_player_hang_tikiman.png::CompressedTexture2D::4264012597438249897::1672265202::1672947271::1::::<><>::
+spr_player_HUD_tikiman.png::CompressedTexture2D::3258627391608551289::1672265210::1672947271::1::::<><>::
+spr_player_hurt_tikiman.png::CompressedTexture2D::117271122687190498::1672265218::1672947271::1::::<><>::
+spr_player_jump_tikiman.png::CompressedTexture2D::1624046841006334206::1672265228::1672947271::1::::<><>::
+spr_player_pole_tikiman.png::CompressedTexture2D::7374444885363989424::1672265240::1672947271::1::::<><>::
+spr_player_pole_turn_tikiman.png::CompressedTexture2D::8270001189171014043::1672265250::1672947271::1::::<><>::
+spr_player_rail_tikiman.png::CompressedTexture2D::3286445420711483145::1672265262::1672947271::1::::<><>::
+spr_player_skid_tikiman.png::CompressedTexture2D::4147954647673240533::1672265276::1672947271::1::::<><>::
+spr_player_stand_tikiman.png::CompressedTexture2D::5848108152721743193::1672265288::1672947271::1::::<><>::
+spr_player_walk_tikiman.png::CompressedTexture2D::2039259260811325552::1672265304::1672947271::1::::<><>::
+spr_player_wall_slide_tikiman.png::CompressedTexture2D::999879595467536747::1672265318::1672947271::1::::<><>::
+::res://Sprites/System/::1672947271
+spr_character_select.png::CompressedTexture2D::6799718824914985143::1672274248::1672947271::1::::<><>::
+spr_gameover.png::CompressedTexture2D::2419765183193373087::1672274260::1672947271::1::::<><>::
+spr_menu.png::CompressedTexture2D::276869742819732725::1672274282::1672947271::1::::<><>::
+spr_menu_arrow_16.png::CompressedTexture2D::3023698022643040651::1672274294::1672947271::1::::<><>::
+spr_menu_arrow_32.png::CompressedTexture2D::3950484734200494794::1672274304::1672947271::1::::<><>::
+spr_menu_main_background.png::CompressedTexture2D::4007917579459640222::1672274314::1672947271::1::::<><>::
+spr_pause.png::CompressedTexture2D::5400717493694976499::1672274322::1672947271::1::::<><>::
+::res://Sprites/System/Boot Splash/::1672947271
+splash_screen.png::CompressedTexture2D::1140886627476633770::1672775996::1672947271::1::::<><>::
+splash_screen_godot.png::CompressedTexture2D::1832397074379165300::1672776415::1672947271::1::::<><>::
+::res://Sprites/System/Boot Splash/SVG/::1672947271
+splash_screen.svg::CompressedTexture2D::355886646726137332::1672776017::1672947271::1::::<><>::
+splash_screen_godot.svg::CompressedTexture2D::64339801325324506::1672776449::1672947271::1::::<><>::
+::res://Sprites/System/Controls/::1672947271
+spr_gamepad_buttons_ps4.png::CompressedTexture2D::4162919173850833764::1672266378::1672947271::1::::<><>::
+spr_gamepad_buttons_ps4_pressed.png::CompressedTexture2D::6699221160968784822::1672266358::1672947271::1::::<><>::
+spr_gamepad_buttons_switchjoyconl.png::CompressedTexture2D::4021114702181557164::1672266390::1672947271::1::::<><>::
+spr_gamepad_buttons_switchjoyconl_pressed.png::CompressedTexture2D::8630186968992889680::1672266398::1672947271::1::::<><>::
+spr_gamepad_buttons_switchjoyconr.png::CompressedTexture2D::695252739326436348::1672266408::1672947271::1::::<><>::
+spr_gamepad_buttons_switchjoyconr_pressed.png::CompressedTexture2D::113642111946824908::1672266424::1672947271::1::::<><>::
+spr_gamepad_buttons_switchpro.png::CompressedTexture2D::3948726537458213077::1672266434::1672947271::1::::<><>::
+spr_gamepad_buttons_switchpro_pressed.png::CompressedTexture2D::3203325764321717094::1672266448::1672947271::1::::<><>::
+spr_gamepad_buttons_xbox.png::CompressedTexture2D::8389741448533010744::1672266460::1672947271::1::::<><>::
+spr_gamepad_buttons_xbox_pressed.png::CompressedTexture2D::863436528207050151::1672266368::1672947271::1::::<><>::
+spr_keyboard_buttons.png::CompressedTexture2D::1639966310354094030::1672266472::1672947271::1::::<><>::
+spr_keyboard_buttons_pressed.png::CompressedTexture2D::7219456483494566022::1672266484::1672947271::1::::<><>::
+::res://Sprites/System/Icon/::1672947271
+icon.png::CompressedTexture2D::3599143130449082376::1672788328::1672947271::1::::<><>::
+icon_godot.png::CompressedTexture2D::4727932979172685578::1672788291::1672947271::1::::<><>::
+::res://Sprites/System/Icon/SVG/::1672947271
+icon.svg::CompressedTexture2D::6194901496538199305::1672788331::1672947271::1::::<><>::
+icon_godot.svg::CompressedTexture2D::901041014800731237::1672788297::1672947271::1::::<><>::
+::res://Sprites/System/Title Screen/::1672947271
+spr_title_logo.png::CompressedTexture2D::1772274814549319976::1672266614::1672947271::1::::<><>::
+::res://Sprites/System/World Map/::1672947271
+spr_worldmap.png::CompressedTexture2D::5023405615002786239::1672266708::1672947271::1::::<><>::
+spr_worldmap_icon.png::CompressedTexture2D::2646524605983373662::1672266722::1672947271::1::::<><>::
+spr_worldmap_pictures.png::CompressedTexture2D::1093079064821097894::1672268014::1672947271::1::::<><>::
+::res://Sprites/Things/::1672351124
+::res://Sprites/Things/Collectibles/::1672947271
+spr_air_bubble.png::CompressedTexture2D::4464509579759906796::1672274542::1672947271::1::::<><>::
+spr_air_bubble_spawner.png::CompressedTexture2D::3622389028028505199::1672274552::1672947271::1::::<><>::
+spr_happy_heart.png::CompressedTexture2D::8264257938576472414::1672274564::1672947271::1::::<><>::
+spr_number_star.png::CompressedTexture2D::929080889538390364::1672274570::1672947271::1::::<><>::
+spr_star_yorb.png::CompressedTexture2D::1655300376321420331::1672274582::1672947271::1::::<><>::
+spr_stopper_watch.png::CompressedTexture2D::6024800654061038386::1672274592::1672947271::1::::<><>::
+spr_time_star.png::CompressedTexture2D::7442924510046286824::1672274602::1672947271::1::::<><>::
+spr_trophy.png::CompressedTexture2D::3784418999817066698::1672274614::1672947271::1::::<><>::
+spr_yorb.png::CompressedTexture2D::7416383887169534835::1672274630::1672947271::1::::<><>::
+::res://Sprites/Things/Common/::1672947271
+spr_chain.png::CompressedTexture2D::625732682883621057::1672274844::1672947271::1::::<><>::
+spr_climb_mesh.png::CompressedTexture2D::1097851920540297205::1672274852::1672947271::1::::<><>::
+spr_explosion_bomb.png::CompressedTexture2D::4431632159885422365::1672274862::1672947271::1::::<><>::
+spr_explosion_realistic.png::CompressedTexture2D::8186804294118015466::1672274874::1672947271::1::::<><>::
+spr_heavy_door_block.png::CompressedTexture2D::280251692314351305::1672274896::1672947271::1::::<><>::
+spr_hook.png::CompressedTexture2D::5419424166316041853::1672274904::1672947271::1::::<><>::
+spr_path_orb.png::CompressedTexture2D::7662060031841339289::1672274914::1672947271::1::::<><>::
+spr_platform.png::CompressedTexture2D::4619864097618880007::1672274922::1672947271::1::::<><>::
+spr_pole.png::CompressedTexture2D::6084684458785070027::1672274938::1672947271::1::::<><>::
+spr_portal.png::CompressedTexture2D::3365290256752022396::1672274952::1672947271::1::::<><>::
+spr_ray.png::CompressedTexture2D::6075233375992509808::1672274972::1672947271::1::::<><>::
+spr_skulljar.png::CompressedTexture2D::5863166078043510460::1672274982::1672947271::1::::<><>::
+spr_spring.png::CompressedTexture2D::1931268303054778107::1672275016::1672947271::1::::<><>::
+spr_star_arrow.png::CompressedTexture2D::1751598191519469809::1672275036::1672947271::1::::<><>::
+spr_switch_on_off.png::CompressedTexture2D::3881584084015214877::1672275052::1672947271::1::::<><>::
+spr_walkie_talkie.png::CompressedTexture2D::7940865144004966129::1672275074::1672947271::1::::<><>::
+spr_water_surface_lava.png::CompressedTexture2D::5570542697958601830::1672275086::1672947271::1::::<><>::
+spr_water_surface_lemonade.png::CompressedTexture2D::612607525807937612::1672275098::1672947271::1::::<><>::
+spr_water_surface_normal.png::CompressedTexture2D::5624463130894059728::1672275116::1672947271::1::::<><>::

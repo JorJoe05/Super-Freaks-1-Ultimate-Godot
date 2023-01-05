@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/sfx_stararrow.ogg-ee190356f319cc3d2190c20d5601d100.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bmo7f8mf870mh"
+path="res://.godot/imported/sfx_stararrow.ogg-ee190356f319cc3d2190c20d5601d100.oggvorbisstr"
 
 [deps]
 
 source_file="res://Sounds/SFX/sfx_stararrow.ogg"
-dest_files=[ "res://.import/sfx_stararrow.ogg-ee190356f319cc3d2190c20d5601d100.oggstr" ]
+dest_files=["res://.godot/imported/sfx_stararrow.ogg-ee190356f319cc3d2190c20d5601d100.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

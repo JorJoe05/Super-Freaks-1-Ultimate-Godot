@@ -6,17 +6,20 @@
 ;   [section] ; section goes between []
 ;   param=value ; assign values to parameters
 
-config_version=4
+config_version=5
 
 [application]
 
 config/name="Super Freaks 1 Ultimate Edition"
+config/features=PackedStringArray("4.0")
 boot_splash/image="res://Sprites/System/Title Screen/Splash Screen/splash_screen_godot.png"
 boot_splash/fullsize=false
 config/icon="res://Sprites/System/Icon/icon_godot.png"
 
 [display]
 
+window/size/viewport_width=640
+window/size/viewport_height=360
 window/size/width=640
 window/size/height=360
 

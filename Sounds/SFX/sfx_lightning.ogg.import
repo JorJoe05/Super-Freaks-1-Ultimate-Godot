@@ -1,15 +1,19 @@
 [remap]
 
-importer="ogg_vorbis"
-type="AudioStreamOGGVorbis"
-path="res://.import/sfx_lightning.ogg-747d525c86d4bacc6d69317c78eb0e4c.oggstr"
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dssqr8aw2af1w"
+path="res://.godot/imported/sfx_lightning.ogg-747d525c86d4bacc6d69317c78eb0e4c.oggvorbisstr"
 
 [deps]
 
 source_file="res://Sounds/SFX/sfx_lightning.ogg"
-dest_files=[ "res://.import/sfx_lightning.ogg-747d525c86d4bacc6d69317c78eb0e4c.oggstr" ]
+dest_files=["res://.godot/imported/sfx_lightning.ogg-747d525c86d4bacc6d69317c78eb0e4c.oggvorbisstr"]
 
 [params]
 
 loop=true
 loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
