@@ -11,10 +11,9 @@ config_version=4
 [application]
 
 config/name="Super Freaks 1 Ultimate Edition"
-boot_splash/image="res://Sprites/System/Title Screen/spr_title_logo.png"
+boot_splash/image="res://Sprites/System/Title Screen/Splash Screen/splash_screen_godot.png"
 boot_splash/fullsize=false
-boot_splash/use_filter=false
-config/icon="res://icon.png"
+config/icon="res://Sprites/System/Icon/icon_godot.png"
 
 [display]
 
