@@ -8,11 +8,22 @@
 
 config_version=5
 
+_global_script_classes=[{
+"base": "Node2D",
+"class": &"Entity",
+"language": &"GDScript",
+"path": "res://Classes/Entity/Entity.gd"
+}]
+_global_script_class_icons={
+"Entity": ""
+}
+
 [application]
 
 config/name="Super Freaks 1 Ultimate Edition"
+run/main_scene="res://Node2D.tscn"
 config/features=PackedStringArray("4.0")
-boot_splash/image="res://Sprites/System/Title Screen/Splash Screen/splash_screen_godot.png"
+boot_splash/image="res://Sprites/System/Boot Splash/splash_screen_godot.png"
 boot_splash/fullsize=false
 config/icon="res://Sprites/System/Icon/icon_godot.png"
 
@@ -20,8 +31,13 @@ config/icon="res://Sprites/System/Icon/icon_godot.png"
 
 window/size/viewport_width=640
 window/size/viewport_height=360
-window/size/width=640
-window/size/height=360
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="viewport"
+
+[editor]
+
+scene/scene_naming=1
 
 [gui]
 

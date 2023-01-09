@@ -1,0 +1,27 @@
+[gd_scene load_steps=5 format=3 uid="uid://b4r6aoud17wre"]
+
+[ext_resource type="Script" path="res://Nodes/Players/Player.gd" id="1_p4fpp"]
+[ext_resource type="SpriteFrames" uid="uid://dnxjb8t5hxftk" path="res://Sprites/Player Characters/Scruffy/SpriteFrames_Scruffy.tres" id="2_q3np1"]
+[ext_resource type="PackedScene" uid="uid://6dunr6xxrw52" path="res://Components/Solid Collision/SolidCollider.tscn" id="3_iilhm"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_nhla3"]
+size = Vector2(16, 32)
+
+[node name="Player" type="Node2D" node_paths=PackedStringArray("collider_node")]
+script = ExtResource("1_p4fpp")
+collider_node = NodePath("SolidCollider")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+frames = ExtResource("2_q3np1")
+animation = &"walk"
+playing = true
+offset = Vector2(0, -8)
+
+[node name="Reference" type="Node2D" parent="."]
+
+[node name="Hitbox" type="CollisionShape2D" parent="Reference"]
+position = Vector2(0, 4)
+shape = SubResource("RectangleShape2D_nhla3")
+disabled = true
+
+[node name="SolidCollider" parent="." instance=ExtResource("3_iilhm")]

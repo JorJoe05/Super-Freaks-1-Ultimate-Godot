@@ -1,0 +1,122 @@
+[gd_scene load_steps=2 format=3 uid="uid://6dunr6xxrw52"]
+
+[ext_resource type="Script" path="res://Components/Solid Collision/SolidCollider.gd" id="1_euqs6"]
+
+[node name="SolidCollider" type="Node2D"]
+script = ExtResource("1_euqs6")
+
+[node name="ColliderRoot" type="Node2D" parent="."]
+visible = false
+position = Vector2(0, 4)
+
+[node name="Top" type="Node2D" parent="ColliderRoot"]
+
+[node name="TopExtA" type="RayCast2D" parent="ColliderRoot/Top"]
+unique_name_in_owner = true
+position = Vector2(-6, 0)
+target_position = Vector2(0, -36)
+hit_from_inside = true
+
+[node name="TopCenter" type="RayCast2D" parent="ColliderRoot/Top"]
+unique_name_in_owner = true
+target_position = Vector2(0, -36)
+hit_from_inside = true
+
+[node name="TopExtB" type="RayCast2D" parent="ColliderRoot/Top"]
+unique_name_in_owner = true
+position = Vector2(6, 0)
+target_position = Vector2(0, -36)
+hit_from_inside = true
+
+[node name="Bottom" type="Node2D" parent="ColliderRoot"]
+
+[node name="BottomExtA" type="RayCast2D" parent="ColliderRoot/Bottom"]
+unique_name_in_owner = true
+position = Vector2(-8, 0)
+target_position = Vector2(0, 36)
+hit_from_inside = true
+
+[node name="BottomCenter" type="RayCast2D" parent="ColliderRoot/Bottom"]
+unique_name_in_owner = true
+target_position = Vector2(0, 36)
+hit_from_inside = true
+
+[node name="BottomExtB" type="RayCast2D" parent="ColliderRoot/Bottom"]
+unique_name_in_owner = true
+position = Vector2(8, 0)
+target_position = Vector2(0, 36)
+hit_from_inside = true
+
+[node name="Left" type="Node2D" parent="ColliderRoot"]
+
+[node name="LeftExtA" type="RayCast2D" parent="ColliderRoot/Left"]
+unique_name_in_owner = true
+position = Vector2(0, -12)
+target_position = Vector2(-30, 0)
+hit_from_inside = true
+
+[node name="LeftCenter" type="RayCast2D" parent="ColliderRoot/Left"]
+unique_name_in_owner = true
+target_position = Vector2(-30, 0)
+hit_from_inside = true
+
+[node name="LeftExtB" type="RayCast2D" parent="ColliderRoot/Left"]
+unique_name_in_owner = true
+position = Vector2(0, 12)
+target_position = Vector2(-30, 0)
+hit_from_inside = true
+
+[node name="Right" type="Node2D" parent="ColliderRoot"]
+
+[node name="RightExtA" type="RayCast2D" parent="ColliderRoot/Right"]
+unique_name_in_owner = true
+position = Vector2(0, -12)
+target_position = Vector2(30, 0)
+hit_from_inside = true
+
+[node name="RightCenter" type="RayCast2D" parent="ColliderRoot/Right"]
+unique_name_in_owner = true
+target_position = Vector2(30, 0)
+hit_from_inside = true
+
+[node name="RightExtB" type="RayCast2D" parent="ColliderRoot/Right"]
+unique_name_in_owner = true
+position = Vector2(0, 12)
+target_position = Vector2(30, 0)
+hit_from_inside = true
+
+[node name="EditorHint" type="CanvasGroup" parent="."]
+position = Vector2(0, 4)
+
+[node name="RectRoot" type="Node2D" parent="EditorHint"]
+position = Vector2(-14, -20)
+
+[node name="Rect" type="ColorRect" parent="EditorHint/RectRoot"]
+layout_direction = 1
+offset_right = 28.0
+offset_bottom = 40.0
+color = Color(1, 1, 1, 0.501961)
+
+[node name="Top" type="Line2D" parent="EditorHint"]
+position = Vector2(0, -19.5)
+points = PackedVector2Array(-6, 0, 6, 0)
+width = 1.0
+default_color = Color(1, 1, 0, 1)
+
+[node name="Bottom" type="Line2D" parent="EditorHint"]
+position = Vector2(0, 19.5)
+points = PackedVector2Array(-8, 0, 8, 0)
+width = 1.0
+default_color = Color(0, 1, 0, 1)
+
+[node name="Left" type="Line2D" parent="EditorHint"]
+position = Vector2(-13.5, 0)
+points = PackedVector2Array(0, -12, 0, 12)
+width = 1.0
+default_color = Color(0, 0, 1, 1)
+
+[node name="Right" type="Line2D" parent="EditorHint"]
+position = Vector2(13.5, 0)
+points = PackedVector2Array(0, -12, 0, 12)
+width = 1.0
+default_color = Color(1, 0, 0, 1)
