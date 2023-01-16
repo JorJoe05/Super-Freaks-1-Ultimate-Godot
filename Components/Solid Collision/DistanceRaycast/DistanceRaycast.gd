@@ -44,6 +44,7 @@ func get_relative_angle(angle):
 
 func is_colliding():
 	force_raycast_update()
+	return is_colliding()
 
 #func _process(delta):
 #	print(get_distance())
