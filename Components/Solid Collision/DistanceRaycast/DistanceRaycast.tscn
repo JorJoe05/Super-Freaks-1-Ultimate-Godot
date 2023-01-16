@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cxg58k0408nbg"]
+
+[ext_resource type="Script" path="res://Components/Solid Collision/DistanceRaycast/DistanceRaycast.gd" id="1_bqx43"]
+
+[node name="DistanceRaycast" type="RayCast2D"]
+script = ExtResource("1_bqx43")

@@ -21,6 +21,7 @@ func _physics_process(delta):
 		$AnimatedSprite2D.animation = "stand"
 	if Input.is_action_just_pressed("ui_up"):
 		velocity.y = -7
+		pass
 	
 	position += velocity
 	#position.x += 3
