@@ -162,7 +162,7 @@ animations = [{
 "frames": [SubResource("AtlasTexture_788tm"), SubResource("AtlasTexture_hx8oi"), SubResource("AtlasTexture_rjiyn"), SubResource("AtlasTexture_ij055")],
 "loop": true,
 "name": &"walk",
-"speed": 6.0
+"speed": 5.0
 }, {
 "frames": [ExtResource("13_8t1qf")],
 "loop": true,

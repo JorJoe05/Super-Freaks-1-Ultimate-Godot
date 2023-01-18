@@ -1,14 +1,21 @@
 extends Entity
 
+@export var player_id : int
+var player_spriteframes = [
+	preload("res://Sprites/Player Characters/Scruffy/SpriteFrames_Scruffy.tres"),
+	preload("res://Sprites/Player Characters/King Quincy/SpriteFrames_Quincy.tres"),
+	preload("res://Sprites/Player Characters/Gambi/SpriteFrames_Gambi.tres"),
+	preload("res://Sprites/Player Characters/Tikiman/SpriteFrames_Tikiman.tres")
+]
+
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	pass # Replace with function body.
+	$AnimatedSprite2D.frames = player_spriteframes[player_id]
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _physics_process(delta):
-	velocity.x += -0.2*sin(global_rotation)
-	velocity.y += 0.2*cos(global_rotation)
+	apply_gravity()
 	if Input.is_action_pressed("ui_left"):
 		position.x -= 3
 		$AnimatedSprite2D.flip_h = 1
@@ -24,6 +31,8 @@ func _physics_process(delta):
 		velocity.y = -7
 		pass
 	
-	position += velocity
+	apply_velocity()
 	#position.x += 3
+	Math.player_pos = collider_node.get_active_sensor_bottom().get_collision_point()
+	position += Math.rotate_vector(Math.obj_pos - Math.player_pos, 0.01, true)
 	collide()

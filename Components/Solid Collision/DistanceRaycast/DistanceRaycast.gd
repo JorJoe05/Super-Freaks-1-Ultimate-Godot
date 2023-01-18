@@ -7,7 +7,7 @@ extends RayCast2D
 func get_distance():
 	force_raycast_update()
 	var output = \
-		get_collision_point() - ((to_global(target_position) - global_position).normalized() * distance_offset) - global_position if is_colliding() \
+		get_collision_point() - ((to_global(target_position) - global_position).normalized() * distance_offset) - global_position if is_colliding() and enabled \
 		else Vector2(0, 0)#(to_global(target_position) - global_position) - ((to_global(target_position) - global_position).normalized() * distance_offset)
 	return output
 func get_relative_distance(angle):
@@ -21,7 +21,7 @@ func get_relative_distance(angle):
 # Normal Functions
 func get_normal():
 	force_raycast_update()
-	var output = get_collision_normal() if is_colliding() else Vector2(0, 0)
+	var output = get_collision_normal() if is_colliding() and enabled else Vector2(0, 0)
 	return output
 func get_relative_normal(angle):
 	var x = get_normal().x
@@ -33,12 +33,12 @@ func get_relative_normal(angle):
 # Angle Functions (measured in radians)
 func get_angle():
 	var output = \
-		wrapf(-atan2(get_collision_normal().x, get_collision_normal().y)-PI, 0, 2*PI) if is_colliding() \
+		wrapf(-atan2(get_collision_normal().x, get_collision_normal().y)-PI, 0, 2*PI) if is_colliding() and enabled \
 		else 0
 	return output
 func get_relative_angle(angle):
 	var output = \
-		wrapf(-atan2(get_collision_normal().x, get_collision_normal().y)-PI - angle, 0, 2*PI) if is_colliding() \
+		wrapf(-atan2(get_collision_normal().x, get_collision_normal().y)-PI - angle, 0, 2*PI) if is_colliding() and enabled \
 		else wrapf(angle, 0, 2*PI)
 	return output
 

@@ -80,6 +80,23 @@ func collider_update_right():
 	RightExtB.target_position = Vector2(collider_radius.x+extra_range, 0)
 	RightExtB.distance_offset = collider_radius.x
 
+func set_top_enabled(mode): #0: Disabled | 1: Enabled | 2: Middle Only
+	TopExtA.enabled = true if mode == 1 else false
+	TopCenter.enabled = false if mode == 0 else true
+	TopExtB.enabled = true if mode == 1 else false
+func set_bottom_enabled(mode):
+	BottomExtA.enabled = true if mode == 1 else false
+	BottomCenter.enabled = false if mode == 0 else true
+	BottomExtB.enabled = true if mode == 1 else false
+func set_left_enabled(mode):
+	LeftExtA.enabled = true if mode == 1 else false
+	LeftCenter.enabled = false if mode == 0 else true
+	LeftExtB.enabled = true if mode == 1 else false
+func set_right_enabled(mode):
+	RightExtA.enabled = true if mode == 1 else false
+	RightCenter.enabled = false if mode == 0 else true
+	RightExtB.enabled = true if mode == 1 else false
+
 func get_active_sensor_top():
 	var output = TopCenter
 	if TopExtA.get_relative_distance(global_rotation+PI) < TopExtB.get_relative_distance(global_rotation+PI) and round(rad_to_deg(TopExtA.get_relative_angle(global_rotation+PI))) == 0:

@@ -26,13 +26,18 @@ config/features=PackedStringArray("4.0")
 boot_splash/fullsize=false
 config/icon="res://Sprites/System/Icon/icon_godot.png"
 
+[autoload]
+
+Math="*res://Components/Math/Math.gd"
+
 [display]
 
 window/size/viewport_width=640
 window/size/viewport_height=360
 window/size/window_width_override=1280
 window/size/window_height_override=720
-window/stretch/mode="viewport"
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
 
 [editor]
 
@@ -46,6 +51,25 @@ common/drop_mouse_on_gui_input_disabled=true
 
 texture={
 "flags/filter": false
+}
+
+[input]
+
+P1_Left={
+"deadzone": 0.5,
+"events": []
+}
+P1_Right={
+"deadzone": 0.5,
+"events": []
+}
+P1_Up={
+"deadzone": 0.5,
+"events": []
+}
+P1_Down={
+"deadzone": 0.5,
+"events": []
 }
 
 [rendering]
