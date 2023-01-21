@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://cb2r7ldgji48k"
+uid="uid://budxb32wufxcw"
 path="res://.godot/imported/msc_skyway.ogg-bb9b52f58bbe927b0c3ab267caa192c5.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_skyway.ogg-bb9b52f58bbe927b0c3ab267caa192
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=48.0
+bpm=190.0
+beat_count=448
 bar_beats=4

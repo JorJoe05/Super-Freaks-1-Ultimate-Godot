@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://4s8o10fuce4s"
+uid="uid://cedj3c7cftv84"
 path="res://.godot/imported/msc_cutscene_normal.ogg-53c36f942ac66c011c2d006e17ea36ff.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_cutscene_normal.ogg-53c36f942ac66c011c2d0
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=12.0
+bpm=160.0
+beat_count=64
 bar_beats=4

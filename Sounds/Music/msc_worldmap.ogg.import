@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://du3mf23y2eu8g"
+uid="uid://cgksl2lawe2si"
 path="res://.godot/imported/msc_worldmap.ogg-0cb92ae73b66760057e19ca5896f0b1e.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_worldmap.ogg-0cb92ae73b66760057e19ca5896f
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=33.104
+bpm=116.0
+beat_count=128
 bar_beats=4

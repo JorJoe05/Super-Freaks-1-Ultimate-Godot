@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://dkvwwfjseud0w"
+uid="uid://cpob6fxyiw3p7"
 path="res://.godot/imported/msc_hippie.ogg-68e5fb6b5413f00e07b0aa8ba9449eb2.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_hippie.ogg-68e5fb6b5413f00e07b0aa8ba9449e
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=3.429
+bpm=140.0
+beat_count=296
 bar_beats=4

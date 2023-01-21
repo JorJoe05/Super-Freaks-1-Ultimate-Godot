@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://cq3y6ba0iptti"
+uid="uid://bu6lh5vj03flw"
 path="res://.godot/imported/msc_lightning.ogg-cc03b4c56e479cd016ef950266d88539.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_lightning.ogg-cc03b4c56e479cd016ef950266d
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=12.152
+bpm=158.0
+beat_count=224
 bar_beats=4

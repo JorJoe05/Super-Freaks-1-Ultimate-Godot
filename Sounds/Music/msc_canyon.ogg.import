@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://b438gpmwje8fn"
+uid="uid://c1dn0b83qb2q7"
 path="res://.godot/imported/msc_canyon.ogg-b505385949ba304086d335bb08f099d4.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_canyon.ogg-b505385949ba304086d335bb08f099
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
-bar_beats=4
+loop_offset=0.71
+bpm=165.05
+beat_count=611
+bar_beats=3

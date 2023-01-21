@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://dabd8k7dswd40"
+uid="uid://df4qahois55yl"
 path="res://.godot/imported/msc_stadium.ogg-50e8b1e0f475e9ab71d2220d01497d52.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_stadium.ogg-50e8b1e0f475e9ab71d2220d01497
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=2.981
+bpm=161.0
+beat_count=280
 bar_beats=4
