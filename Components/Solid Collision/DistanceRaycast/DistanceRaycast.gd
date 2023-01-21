@@ -30,10 +30,13 @@ func get_relative_normal(angle):
 	var yp = (x * sin(-angle)) + (y * cos(-angle))
 	return Vector2(xp, yp)
 
+func get_slope():
+	return Math.rotate_vector(get_normal(), 1.5*PI)
+
 # Angle Functions (measured in radians)
 func get_angle():
 	var output = \
-		wrapf(-atan2(get_collision_normal().x, get_collision_normal().y)-PI, 0, 2*PI) if is_colliding() and enabled \
+		wrapf(atan2(get_collision_normal().x, get_collision_normal().y)-PI, 0, 2*PI) if is_colliding() and enabled \
 		else 0
 	return output
 func get_relative_angle(angle):

@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://7yd6lai8mn38"
+uid="uid://cbx4yg4m37fj2"
 path="res://.godot/imported/sfx_clock_ticking.ogg-b153aa6ce9df7bc9fd90c0dd8a480c80.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/sfx_clock_ticking.ogg-b153aa6ce9df7bc9fd90c0d
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://c1tb3b1h78wvl"
+uid="uid://b7o2blu6s5s1r"
 path="res://.godot/imported/sfx_heart.ogg-da4d31fba35686fc5cdb5e53f97b33ee.oggvorbisstr"
 
 [deps]
@@ -12,8 +12,8 @@ dest_files=["res://.godot/imported/sfx_heart.ogg-da4d31fba35686fc5cdb5e53f97b33e
 
 [params]
 
-loop=true
-loop_offset=0
-bpm=0
+loop=false
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

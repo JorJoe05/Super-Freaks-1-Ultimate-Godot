@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://b5u67db30vhef"
+uid="uid://cyffi2jyribad"
 path="res://.godot/imported/sfx_unlock_level.ogg-96ce60c73aa7897d298c9bd3489e8c2f.oggvorbisstr"
 
 [deps]
@@ -12,8 +12,8 @@ dest_files=["res://.godot/imported/sfx_unlock_level.ogg-96ce60c73aa7897d298c9bd3
 
 [params]
 
-loop=true
-loop_offset=0
-bpm=0
+loop=false
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

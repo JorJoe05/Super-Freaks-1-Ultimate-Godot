@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://bpy35glj78hvj"
+uid="uid://u7rqs1s2en6h"
 path="res://.godot/imported/msc_boss_skullmobile.ogg-62819e6d1c86015a7224411dfb60b7fe.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_boss_skullmobile.ogg-62819e6d1c86015a7224
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=96.667
+bpm=144.0
+beat_count=464
 bar_beats=4

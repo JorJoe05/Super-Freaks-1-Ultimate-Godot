@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://tw3bglblycau"
+uid="uid://cft1gxp6qja12"
 path="res://.godot/imported/msc_boss_kranion.ogg-2cc017f6f96681223dfa4afe70a30fbb.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_boss_kranion.ogg-2cc017f6f96681223dfa4afe
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=99.31
+bpm=232.0
+beat_count=768
 bar_beats=4

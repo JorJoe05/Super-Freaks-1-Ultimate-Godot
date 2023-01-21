@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://cobsqslxeocrm"
+uid="uid://bjxsu7u0c5peu"
 path="res://.godot/imported/sfx_fanfare.ogg-0f8f1d6b4e8a11dbd20e5c3bc7b17999.oggvorbisstr"
 
 [deps]
@@ -12,8 +12,8 @@ dest_files=["res://.godot/imported/sfx_fanfare.ogg-0f8f1d6b4e8a11dbd20e5c3bc7b17
 
 [params]
 
-loop=true
-loop_offset=0
-bpm=0
+loop=false
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

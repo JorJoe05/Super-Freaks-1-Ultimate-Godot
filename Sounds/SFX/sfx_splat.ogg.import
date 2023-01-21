@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://csb1lmhpo04ht"
+uid="uid://clrqv8jga3myp"
 path="res://.godot/imported/sfx_splat.ogg-48a0315dd65f394dd569de0d005c3e20.oggvorbisstr"
 
 [deps]
@@ -12,8 +12,8 @@ dest_files=["res://.godot/imported/sfx_splat.ogg-48a0315dd65f394dd569de0d005c3e2
 
 [params]
 
-loop=true
-loop_offset=0
-bpm=0
+loop=false
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

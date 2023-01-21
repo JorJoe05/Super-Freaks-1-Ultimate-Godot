@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://bb2c0rks4o4ht"
+uid="uid://bvd4hgnrumuyq"
 path="res://.godot/imported/sfx_walk_rapid.ogg-168b3893d53329f2e885aad02af9e708.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/sfx_walk_rapid.ogg-168b3893d53329f2e885aad02a
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

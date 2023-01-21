@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://dm5n6hx4nfh5y"
+uid="uid://dh3v3kxxqw638"
 path="res://.godot/imported/sfx_bounce_rubber.ogg-5151de50885f7aef1dd293f5d425b874.oggvorbisstr"
 
 [deps]
@@ -12,8 +12,8 @@ dest_files=["res://.godot/imported/sfx_bounce_rubber.ogg-5151de50885f7aef1dd293f
 
 [params]
 
-loop=true
-loop_offset=0
-bpm=0
+loop=false
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

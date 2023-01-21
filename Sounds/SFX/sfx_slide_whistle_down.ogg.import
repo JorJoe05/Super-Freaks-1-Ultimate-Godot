@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://6dp7bq4eaus7"
+uid="uid://dntr6h5oh5hqp"
 path="res://.godot/imported/sfx_slide_whistle_down.ogg-f81b5f8ad5d53eb1ae2ec9f8c62ab9f3.oggvorbisstr"
 
 [deps]
@@ -12,8 +12,8 @@ dest_files=["res://.godot/imported/sfx_slide_whistle_down.ogg-f81b5f8ad5d53eb1ae
 
 [params]
 
-loop=true
-loop_offset=0
-bpm=0
+loop=false
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

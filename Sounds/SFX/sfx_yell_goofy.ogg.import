@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://v2ajun4w38kv"
+uid="uid://due8f6g7qiubr"
 path="res://.godot/imported/sfx_yell_goofy.ogg-06850c85a1f128e3e1f8c15c8877e8e4.oggvorbisstr"
 
 [deps]
@@ -12,8 +12,8 @@ dest_files=["res://.godot/imported/sfx_yell_goofy.ogg-06850c85a1f128e3e1f8c15c88
 
 [params]
 
-loop=true
-loop_offset=0
-bpm=0
+loop=false
+loop_offset=0.0
+bpm=0.0
 beat_count=0
 bar_beats=4

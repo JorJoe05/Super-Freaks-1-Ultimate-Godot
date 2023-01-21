@@ -2,7 +2,7 @@
 
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
-uid="uid://bkmhsuhr2xjrc"
+uid="uid://qwfgvm047fs6"
 path="res://.godot/imported/msc_boss_antifreaks.ogg-fbb880d2ca190fc9361b46f7dfdc838d.oggvorbisstr"
 
 [deps]
@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/msc_boss_antifreaks.ogg-fbb880d2ca190fc9361b4
 [params]
 
 loop=true
-loop_offset=0
-bpm=0
-beat_count=0
+loop_offset=5.25
+bpm=160.0
+beat_count=434
 bar_beats=4
