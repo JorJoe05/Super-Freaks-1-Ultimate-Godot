@@ -29,7 +29,8 @@ func _physics_process(delta):
 		#velocity.x = 0
 		$AnimatedSprite2D.animation = "stand"
 	if Input.is_action_just_pressed("ui_up"):
-		velocity = -7*Math.rotate_vector(Vector2(0, 1), collider_node.get_active_sensor_bottom().get_angle())
+		#velocity = -7*Math.rotate_vector(Vector2(0, 1), collider_node.get_active_sensor_bottom().get_angle())
+		velocity.y = -7
 		pass
 	
 	#velocity = Vector2(0, 0)
@@ -37,7 +38,7 @@ func _physics_process(delta):
 	#position.x += 3
 	Math.player_pos = to_global(collider_node.get_active_sensor_bottom().get_distance())
 	
-	rotation = -collider_node.get_active_sensor_bottom().get_angle()
+	#rotation = -collider_node.get_active_sensor_bottom().get_angle()
 	
 	#position += Math.rotate_vector(Math.obj_pos - Math.player_pos, 0.001, true)
 	collide()
