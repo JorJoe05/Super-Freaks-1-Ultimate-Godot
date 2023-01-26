@@ -29,6 +29,8 @@ func get_relative_normal(angle):
 	var xp = (x * cos(-angle)) - (y * sin(-angle))
 	var yp = (x * sin(-angle)) + (y * cos(-angle))
 	return Vector2(xp, yp)
+func get_normal_zero():
+	return Math.rotate_vector(Vector2(cos(global_rotation), sin(global_rotation)), atan2(target_position.x, target_position.y))
 
 func get_slope():
 	return Math.rotate_vector(get_normal(), 1.5*PI)

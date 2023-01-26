@@ -16,19 +16,20 @@ class_name Entity
 func push_top():
 	if collider_node.get_active_sensor_top().get_relative_distance(collider_node.global_rotation+PI) < 0 and collider_node.get_active_sensor_top().is_colliding():
 		position += collider_node.get_active_sensor_top().get_distance()
-		velocity = Vector2(0, 0)
+		velocity = Math.flatten_vector(velocity, collider_node.get_active_sensor_top().get_normal_zero())
 func push_bottom():
 	if collider_node.get_active_sensor_bottom().get_relative_distance(collider_node.global_rotation) < 0 and collider_node.get_active_sensor_bottom().is_colliding():
 		position += collider_node.get_active_sensor_bottom().get_distance()
-		velocity = Vector2(0, 0)
+		velocity = Math.flatten_vector(velocity, collider_node.get_active_sensor_bottom().get_normal_zero())
+		print(collider_node.get_active_sensor_bottom().get_normal_zero())
 func push_left():
 	if collider_node.get_active_sensor_left().get_relative_distance(collider_node.global_rotation+(0.5*PI)) < 0 and collider_node.get_active_sensor_left().is_colliding():
 		position += collider_node.get_active_sensor_left().get_distance()
-		velocity = Vector2(0, 0)
+		velocity = Math.flatten_vector(velocity, collider_node.get_active_sensor_left().get_normal_zero())
 func push_right():
 	if collider_node.get_active_sensor_right().get_relative_distance(collider_node.global_rotation+(1.5*PI)) < 0 and collider_node.get_active_sensor_right().is_colliding():
 		position += collider_node.get_active_sensor_right().get_distance()
-		velocity = Vector2(0, 0)
+		velocity = Math.flatten_vector(velocity, collider_node.get_active_sensor_right().get_normal_zero())
 # With Snap
 func snap_top():
 	if collider_node.get_active_sensor_top().is_colliding():
