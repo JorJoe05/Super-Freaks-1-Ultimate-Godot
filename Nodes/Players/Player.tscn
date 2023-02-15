@@ -13,9 +13,8 @@ hitbox_node = NodePath("")
 collider_node = NodePath("SolidCollider")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-frames = ExtResource("2_q3np1")
-animation = &"walk"
-playing = true
+sprite_frames = ExtResource("2_q3np1")
+animation = &"stand"
 offset = Vector2(0, -8)
 
 [node name="Reference" type="Node2D" parent="."]
